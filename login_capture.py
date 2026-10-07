@@ -20,12 +20,11 @@ SITES = {
 }
 
 
-def main():
-    if len(sys.argv) != 2 or sys.argv[1] not in SITES:
-        print(f"Usage: python login_capture.py [{'|'.join(SITES)}]")
-        sys.exit(1)
-
-    site = sys.argv[1]
+def capture_session(site: str) -> str:
+    """Opens a real browser so you can log in by hand, then saves the session
+    (cookies + local storage) to session_<site>.json and returns that path."""
+    if site not in SITES:
+        raise ValueError(f"Unknown site '{site}'. Choose one of: {', '.join(SITES)}")
     url = SITES[site]
     out_path = f"session_{site}.json"
 
@@ -42,6 +41,14 @@ def main():
         context.storage_state(path=out_path)
         print(f"Session saved to {out_path}. Keep this file private — it's equivalent to being logged in.")
         browser.close()
+    return out_path
+
+
+def main():
+    if len(sys.argv) != 2 or sys.argv[1] not in SITES:
+        print(f"Usage: python login_capture.py [{'|'.join(SITES)}]")
+        sys.exit(1)
+    capture_session(sys.argv[1])
 
 
 if __name__ == "__main__":
