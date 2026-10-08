@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ username }} · Naukri Automation</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <a class="brand" href="{{ url_for('home') }}"><span class="brand-mark">N</span> Naukri Automation</a>
+      <a class="back-link" href="{{ url_for('home') }}">← All profiles</a>
+    </header>
+
+    <section class="intro profile-intro">
+      <div class="avatar large">{{ username[0]|upper }}</div>
+      <div>
+        <p class="eyebrow">SELECTED PROFILE</p>
+        <h1>{{ username }}</h1>
+        <p class="muted">{{ "Naukri session is ready" if has_session else "Capture a login session to enable the workflows" }}</p>
+      </div>
+    </section>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}<div class="notice {{ category }}">{{ message }}</div>{% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <section class="section-heading">
+      <div>
+        <p class="eyebrow">AVAILABLE WORKFLOWS</p>
+        <h2>What would you like to do?</h2>
+      </div>
+      {% if has_session %}<span class="session-badge"><span></span> Session ready</span>{% endif %}
+    </section>
+
+    <section class="workflow-grid">
+      {% for option, label in workflows.items() %}
+        <form class="workflow-card" action="{{ url_for('start_workflow', username=username) }}" method="post">
+          <input type="hidden" name="option" value="{{ option }}">
+          <span class="workflow-number">0{{ option }}</span>
+          <h3>{{ label }}</h3>
+          {% if option == "1" %}
+            <p>Open a browser for manual login, save this profile’s session, then apply to perfect-match jobs. Non-matches are skipped, not hidden.</p>
+          {% elif option == "2" %}
+            <p>Apply only when all required Naukri match indicators show a perfect match. Non-matches are skipped, not hidden.</p>
+          {% elif option == "3" %}
+            <p>Hide jobs that do not meet the perfect-match checks. Do not submit applications.</p>
+          {% else %}
+            <p>Apply regardless of match score, while retaining the workflow’s other safety checks.</p>
+          {% endif %}
+          <button class="button {{ 'primary' if option == '1' else 'secondary' }}" type="submit" {% if not has_session and option != "1" %}disabled title="Capture a session first"{% endif %}>
+            {{ "Capture session & start" if option == "1" else "Start workflow" }} <span aria-hidden="true">→</span>
+          </button>
+        </form>
+      {% endfor %}
+    </section>
+
+    <section class="run-panel" aria-live="polite">
+      <div class="run-heading">
+        <div>
+          <p class="eyebrow">WORKFLOW STATUS</p>
+          <h2 id="job-message">{{ current_job.message if current_job else "Ready when you are." }}</h2>
+        </div>
+        <span id="job-status" class="status-pill {{ current_job.status if current_job else 'idle' }}">{{ current_job.status if current_job else "idle" }}</span>
+      </div>
+      <pre id="job-output" class="job-output">{{ current_job.output|join('\n') if current_job and current_job.output else "Workflow output will appear here." }}</pre>
+    </section>
+
+    <footer>For session capture, log in in the opened browser. Your session will save automatically and the browser will close.</footer>
+  </main>
+  <script>
+    const statusUrl = {{ url_for('workflow_status', username=username)|tojson }};
+    const messageElement = document.getElementById("job-message");
+    const statusElement = document.getElementById("job-status");
+    const outputElement = document.getElementById("job-output");
+    function renderOutput(lines) {
+      outputElement.replaceChildren();
+      if (!lines.length) {
+        outputElement.textContent = "Workflow output will appear here.";
+        return;
+      }
+      lines.forEach((line, index) => {
+        const successPrefix = "[SUCCESS] ";
+        if (line.startsWith(successPrefix)) {
+          const success = document.createElement("span");
+          success.className = "log-success";
+          const icon = document.createElement("span");
+          icon.className = "success-check";
+          icon.setAttribute("aria-label", "Success");
+          icon.textContent = "✓";
+          success.append(icon, document.createTextNode(" " + line.slice(successPrefix.length)));
+          outputElement.append(success);
+        } else {
+          outputElement.append(document.createTextNode(line));
+        }
+        if (index < lines.length - 1) outputElement.append(document.createTextNode("\n"));
+      });
+    }
+    async function refreshStatus() {
+      try {
+        const response = await fetch(statusUrl, { headers: { "Accept": "application/json" } });
+        if (!response.ok) return;
+        const job = await response.json();
+        messageElement.textContent = job.message;
+        statusElement.textContent = job.status;
+        statusElement.className = "status-pill " + job.status;
+        renderOutput(job.output);
+        outputElement.scrollTop = outputElement.scrollHeight;
+      } catch (_) {
+        messageElement.textContent = "Could not refresh workflow status.";
+      }
+    }
+    window.setInterval(refreshStatus, 2000);
+  </script>
+</body>
+</html>

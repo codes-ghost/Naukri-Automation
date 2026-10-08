@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Naukri Automation · Profiles</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <a class="brand" href="{{ url_for('home') }}"><span class="brand-mark">N</span> Naukri Automation</a>
+      <span class="local-badge"><span></span> Local only</span>
+    </header>
+
+    <section class="intro">
+      <p class="eyebrow">PROFILE SELECTOR</p>
+      <h1>Who’s applying today?</h1>
+      <p class="muted">Choose a saved profile or create one to capture its own Naukri login session.</p>
+    </section>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}<div class="notice {{ category }}">{{ message }}</div>{% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <section class="profile-grid" aria-label="Saved profiles">
+      {% for profile in profiles %}
+        <a class="profile-card" href="{{ url_for('profile', username=profile.username) }}">
+          <span class="avatar">{{ profile.username[0]|upper }}</span>
+          <span class="card-copy">
+            <strong>{{ profile.username }}</strong>
+            <small>{{ "Session ready" if profile.has_session else "Login session needed" }}</small>
+          </span>
+          <span class="arrow" aria-hidden="true">→</span>
+        </a>
+      {% else %}
+        <div class="empty-card">
+          <span class="empty-icon">＋</span>
+          <strong>No profiles yet</strong>
+          <span class="muted">Create a profile below to get started.</span>
+        </div>
+      {% endfor %}
+    </section>
+
+    <section class="create-panel">
+      <div>
+        <p class="eyebrow">NEW PROFILE</p>
+        <h2>Add a user</h2>
+        <p class="muted">Each username keeps its own browser session and workflow files.</p>
+      </div>
+      <form class="create-form" action="{{ url_for('create_profile') }}" method="post">
+        <label class="visually-hidden" for="username">Username</label>
+        <input id="username" name="username" type="text" placeholder="e.g. yuvar" minlength="1" maxlength="32" pattern="[A-Za-z0-9][A-Za-z0-9_-]{0,31}" autocomplete="off" required>
+        <button class="button primary" type="submit">Create profile <span aria-hidden="true">→</span></button>
+      </form>
+      <p class="hint">Use 1–32 letters, numbers, underscores, or hyphens. Your password is entered only on Naukri’s website.</p>
+    </section>
+
+    <footer>Sessions are saved on this computer and are equivalent to being logged in. Keep them private.</footer>
+  </main>
+</body>
+</html>

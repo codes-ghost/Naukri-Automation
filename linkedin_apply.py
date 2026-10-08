@@ -18,9 +18,10 @@ from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 from common.profile import Profile
 from common import gemini
+from common.data_paths import data_path
 
-SESSION_FILE = "session_linkedin.json"
-LOG_FILE = "applications_log.csv"
+SESSION_FILE = data_path("session_linkedin.json")
+LOG_FILE = data_path("applications_log.csv")
 
 STOP_PHRASES = [
     "easy apply limit", "unusual activity", "verify it's you",
@@ -29,6 +30,7 @@ STOP_PHRASES = [
 
 
 def log_row(row: list):
+    Path(LOG_FILE).parent.mkdir(parents=True, exist_ok=True)
     new_file = not Path(LOG_FILE).exists()
     with open(LOG_FILE, "a", newline="") as f:
         w = csv.writer(f)
