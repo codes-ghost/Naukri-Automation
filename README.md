@@ -1,9 +1,9 @@
 # Naukri Auto-Apply
 
-A personal automation tool that searches Naukri.com for jobs matching your
-profile, applies to them, and answers screening questions -- using your own
-browser session and a free AI provider (Gemini and/or Groq) to draft
-free-text answers strictly from facts you provide.
+A personal automation tool that applies to Naukri Recommended Jobs using
+your own browser session. The Naukri runner uses conservative built-in
+limits and asks you to answer screening questions in the visible browser;
+it does not require a profile file or an AI provider.
 
 Also includes a resume refresh script (remove + re-upload, to keep your
 profile showing as recently active) and an optional mobile-friendly status
@@ -31,22 +31,38 @@ device on your home network -- not a rented cloud server.
 
 ## What it does
 
-- Searches Naukri for your configured target roles, paginating through
-  results
-- Filters out jobs that don't match your actual experience range, excluded
-  companies, or role keywords
-- Applies to matching listings and answers the post-apply screening chat:
-  - Recurring fields (experience, notice period, CTC, location, shift
-    preference) are filled from your profile -- no AI call needed
-  - Open-text questions are drafted by a free-tier LLM (Gemini, with an
-    automatic fallback to Groq if Gemini's quota is exhausted), strictly
-    from facts in your profile -- it will refuse to invent anything and
-    ask you directly instead
-  - Radio/checkbox questions are auto-answered when your profile clearly
-    covers it (e.g. "willing to relocate?"), and pause to ask you in the
-    terminal otherwise
-  - Sensitive personal fields (date of birth, PAN, Aadhaar, etc.) are
-    never guessed -- always routed to you
+- Opens your Naukri Recommended Jobs page and visits Applies, Profile,
+  Top Candidate, Preference, and You Might Like
+- Records visited job IDs in `visited_recommended_jobs.json`; later runs
+  recheck them unless the job is rejected or has an applied/uncertain outcome
+- Records explicit unsuitable-match IDs in `rejected_recommended_jobs.csv`
+  and hides those cards as each recommendation category is visited
+- Applies only when all four match checks pass -- Early Applicant,
+  Location, Work Experience, and Key Skills must all show a green check
+  (`ni-icon-check_circle`) and the job must have been posted within the last
+  24 hours. Each match row is identified by its label text, never by position,
+  so it survives Naukri reordering the rows. A cross icon or missing/unknown
+  Key Skills check blocks applying and records the job for hiding; failed
+  Key Skills are also tallied in `missing_skills.json` for profile optimisation.
+- Processes one job at a time, each in its own tab; once a job is finished (or
+  skipped) its tab is closed and the category page is reloaded before the next
+  card is handled, so a job is never judged against the previous job's stale
+  page state
+- Processes every discovered eligible job across all recommendation
+  categories, with a 5-second delay between jobs and up to 5
+  recommendation-page scrolls per category.
+  Without a profile file, role, company, and experience preferences are not
+  filtered; only Naukri-recommended jobs with verified required green checks
+  and a posting age of at most 24 hours are eligible.
+- Asks you to enter or select every screening answer in the visible browser
+  unless an exact answer to that question was previously saved. It submits
+  detected answers automatically, shows a checkmark in the web dashboard after
+  the chat confirms each answer, and continues without requiring terminal
+  input. CLI runs print a `[SUCCESS]` marker instead. It does not guess personal
+  answers or use an AI provider.
+- Saves recruiter email addresses from eligible job descriptions to
+  `recruiter_emails.csv`; eligible external-apply jobs and detected
+  destinations are saved to `external_apply_links.csv` and are not submitted
 - Verifies each application actually went through before logging it as
   successful, rather than assuming success
 - Logs every outcome (applied / skipped / stopped, with a reason) to
@@ -56,8 +72,6 @@ device on your home network -- not a rented cloud server.
 
 - Python 3.10+
 - A Naukri account with a resume already uploaded
-- A free Gemini API key (and optionally a free Groq key as a fallback) --
-  see below
 - A residential IP (your own computer/phone/home network -- see the
   warning above)
 
@@ -72,68 +86,70 @@ pip install -r requirements.txt
 playwright install chromium
 ```
 
-### Get your free API keys
+### Run the Naukri CLI
 
-**Gemini (primary):**
-1. Go to <https://aistudio.google.com/apikey>
-2. Sign in, click "Create API key" -- no card required for the free tier
-3. Free tier is generous (roughly 10 requests/minute, 1,500/day as of
-   writing) -- check current limits there, they change
-
-**Groq (optional fallback, recommended):**
-1. Go to <https://console.groq.com/keys>
-2. Sign in, create a key -- also genuinely free, no card, runs open models
-   like Llama
-3. If Gemini's quota runs out mid-run, the script automatically switches to
-   Groq instead of stopping
-
-### Configure your secrets
+Start the interactive menu from the project folder:
 
 ```bash
-cp .env.example .env
+python cli.py
 ```
 
-Edit `.env` and fill in:
+Choose one of the four workflows:
 
-```
-GEMINI_API_KEY=your-real-key-here
-GROQ_API_KEY=your-real-key-here          # optional but recommended
-```
+1. Capture a Naukri login session and then apply to perfect-match jobs; jobs
+   that do not match are skipped and left visible.
+2. Apply only to jobs with green checks for Early Applicant, Location, Work
+   Experience, and Key Skills; non-matching jobs are skipped and left visible.
+3. Only hide jobs that do not have green checks for all four match rows; do
+   not submit applications.
+4. Apply regardless of match score. The 24-hour posting-age check, existing
+   application checks, and CAPTCHA/rate-limit stop conditions still apply.
 
-### Configure your profile
+Options 2, 3, and 4 require a saved Naukri session. Option 1 captures it before
+applying. Apply modes continue through all discovered jobs in every
+recommendation category; there is no application-count cap. Since there is
+no profile configuration, the runner cannot filter by target role, company
+preferences, or experience range. Screening answers are entered manually in
+the visible browser.
+
+### Run the multi-user web UI
+
+Start the local profile dashboard from the project folder:
 
 ```bash
-cp profile.example.yaml profile.yaml
+python web_ui.py
 ```
 
-Edit `profile.yaml` with your real details: target roles, current CTC,
-notice period, work history, skills, etc. This file is the *only* source
-of truth for every answer the script gives -- nothing is invented beyond
-what's written here. It's gitignored, so your real details never get
-committed if you fork/push this repo.
+Open `http://127.0.0.1:5000`, create a username, and select its profile tile.
+Each profile has a separate `user_data/<username>/` directory. That directory
+stores the user's Naukri session and all workflow data, including application
+logs, recruiter emails, external apply links, visited/rejected job records,
+learned screening answers, missing-skill counts, and debug screenshots. For
+example:
 
-Put your resume in the project folder with the exact filename set in
-`resume_file_name`.
-
-### Capture your login session
-
-```bash
-python login_capture.py naukri
+```
+user_data/
+  alice/
+    session_naukri.json
+    applications_log.csv
+    recruiter_emails.csv
+    learned_answers.json
+    missing_skills.json
+  bob/
+    session_naukri.json
+    applications_log.csv
+    recruiter_emails.csv
+    learned_answers.json
+    missing_skills.json
 ```
 
-A real browser window opens. Log in by hand -- password, OTP, any
-verification. Once you're on your logged-in Naukri homepage, go back to
-the terminal and press Enter. This saves `session_naukri.json` (gitignored
--- treat it like a password, it's equivalent to being logged in).
-
-### Run it
-
-Start small -- set `stop_after_n_applications: 5` in `profile.yaml` for
-your first run, and watch the browser window while it works:
-
-```bash
-python naukri_apply.py
-```
+Choose one of the four workflows shown on the profile page. For session
+capture, log in in the opened browser; the session is saved automatically
+after Naukri redirects to the authenticated homepage, the browser closes, and
+the selected workflow continues. Existing files in the project root are left
+untouched; new web UI runs use each selected user's directory and do not copy
+shared historical records into profiles. The dashboard binds to localhost and
+is not exposed to other devices on the network.
 
 ### Resume refresh (optional)
 
@@ -149,19 +165,15 @@ times a day.
 
 ```
 naukri_apply.py           Main search + apply loop
+cli.py                    Interactive application entry point
 naukri_refresh_resume.py  Resume remove/re-upload
 login_capture.py          One-time manual login, saves session
 schedule_daemon.py        Simple time-based scheduler (for environments
                            without reliable cron, e.g. Termux on Android)
 mobile_dashboard.py       Optional Flask status dashboard, phone-friendly
-profile.example.yaml      Template -- copy to profile.yaml
-.env.example              Template -- copy to .env
 common/
-  profile.py               Loads and validates profile.yaml
-  llm.py                    Dispatches to Gemini, falls back to Groq
-  gemini.py / groq_llm.py   Provider-specific clients
-  human_input.py            Terminal prompts for anything the AI can't answer
-  learned_answers.py        Remembers past answers to recurring questions
+  learned_answers.py       Remembers answers you previously provided
+  skill_tracker.py         Tallies key skills missing from matches
 ```
 
 ## Known limitations
@@ -172,10 +184,8 @@ common/
   element -> Inspect -> Copy outerHTML) and adjust the matching selector.
 - LinkedIn support (`linkedin_apply.py`) exists but has had far less
   real-world testing than the Naukri path.
-- Radio/checkbox auto-answering only covers a small set of common
-  yes/no-style questions out of the box (relocate, night shift, weekend
-  work, immediately available, currently employed) -- extend the rules in
-  `naukri_apply.py`'s `_auto_decide_option` for your own common questions.
+- Screening questions are not automatically answered from a profile; provide
+  truthful answers in the visible browser when prompted.
 
 ## License
 

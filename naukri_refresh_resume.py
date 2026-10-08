@@ -15,8 +15,9 @@ from pathlib import Path
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 from common.profile import Profile
+from common.data_paths import data_path
 
-SESSION_FILE = "session_naukri.json"
+SESSION_FILE = data_path("session_naukri.json")
 PROFILE_URL = "https://www.naukri.com/mnjuser/profile"
 
 # Confirmed real markup (from your Naukri profile page):

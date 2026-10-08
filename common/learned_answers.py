@@ -3,15 +3,18 @@ Remembers answers to screening questions you've typed in yourself before,
 keyed by a normalized version of the question text, so you're never asked
 the same question twice across runs.
 
-Stored as plain JSON at learned_answers.json in the project root. This file
-will contain your personal answers (DOB, etc.) once you start using it —
-keep it private the same way you'd treat profile.yaml.
+Stored as plain JSON in the active user's data directory. This file can
+contain personal answers (DOB, etc.) — keep it private like a login session.
 """
 import json
 import re
 from pathlib import Path
 
-_STORE_PATH = Path(__file__).resolve().parent.parent / "learned_answers.json"
+from common.data_paths import data_path
+
+
+def _store_path() -> Path:
+    return data_path("learned_answers.json")
 
 
 def _normalize(question: str) -> str:
@@ -22,16 +25,19 @@ def _normalize(question: str) -> str:
 
 
 def _load() -> dict:
-    if not _STORE_PATH.exists():
+    path = _store_path()
+    if not path.exists():
         return {}
     try:
-        return json.loads(_STORE_PATH.read_text())
+        return json.loads(path.read_text(encoding="utf-8"))
     except (json.JSONDecodeError, OSError):
         return {}
 
 
 def _save(data: dict):
-    _STORE_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False))
+    path = _store_path()
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
 def get_answer(question: str) -> str | None:
@@ -43,3 +49,11 @@ def save_answer(question: str, answer: str):
     data = _load()
     data[_normalize(question)] = answer
     _save(data)
+
+
+def save_unanswered(question: str):
+    data = _load()
+    key = _normalize(question)
+    if key not in data:
+        data[key] = ""
+        _save(data)
