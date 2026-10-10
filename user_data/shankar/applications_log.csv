@@ -1,0 +1,295 @@
+timestamp,source,title,company,status,reason
+2026-10-10 13:54:19.982924,naukri,Sr DATA ENGINEER - SQL,Happiest Minds Technologies,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 13:54:31.313151,naukri,Senior Data Analyst,Narayana Health (NH),uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shankar\debug_screenshots\Senior_Data_Analyst_20261010_135431.png
+2026-10-10 13:54:40.573474,naukri,Data Analyst,Wipro,skipped,green-tick mismatch: Work Experience
+2026-10-10 13:54:44.935798,naukri,Power BI Developer,Datamatics,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 13:55:01.942060,naukri,Power BI Data Engineer,Tiger Analytics,applied,
+2026-10-10 13:55:11.458770,naukri,Data Analyst,Intellectual capital HR consulting Pvt Ltd,skipped,green-tick mismatch: Work Experience
+2026-10-10 13:55:15.619838,naukri,Business Analyst,Betatest Solutions,skipped,green-tick mismatch: Early Applicant
+2026-10-10 13:55:30.529317,naukri,BI and Data Analyst,Straive,applied,
+2026-10-10 15:21:14.369639,naukri,Business Analyst,Infinity learn,skipped,"unexpected error: Page.wait_for_timeout: Target page, context or browser has been closed"
+2026-10-10 15:21:14.396831,naukri,Senior Data Analyst,Tredence,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.427304,naukri,"Data Analysis & Insights Analyst Insights generation, BI Mumbai",Multinational Company,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.447809,naukri,Azure Data Engineer,Capgemini,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.468351,naukri,Business Analyst,Snabbit,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.489536,naukri,Data Analyst,LKQ India,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.509950,naukri,Sr Lead Data analyst - US Regulatory Reporting,Brillio,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.526301,naukri,Data Engineer,Tech Mahindra,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.542044,naukri,Data Scientist,Net Connect,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.565062,naukri,PySpark Data engineer/Analyst- US MNC (analytics),US MNC (analytics),skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.582563,naukri,Data Scientist Analytics Engineer AI Engineer,Great Learning,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.600426,naukri,Data Engineer,Giggso,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.618995,naukri,Data Analyst (3 months Contract) | Remote,Innodata India,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.642743,naukri,Associate Manager - HR Analytics,Sutherland,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.663462,naukri,Data Engineer,Bridgenext,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.689835,naukri,Data Engineer -3 To 8 years,CONFIDENTIAL,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.734712,naukri,Data Engineer,Evoke HR solution,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.759614,naukri,Aws Data Engineer--Virtual Drive --15-Oct,Tata Consultancy Services,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.778846,naukri,Data Analyst,Systechcorp Inc,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.794784,naukri,SAS +Python Data Engineer -Blackstraw.- Immediate Joiner- WFO- Chennai,Blackstraw Technologies,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.809586,naukri,Data Analytics Consultant,Leading IT Services & Consulting Company,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.825399,naukri,Senior Data Engineer,Talentstream,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.839314,naukri,Data Engineer,Neoveda Technologies,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.857332,naukri,Azure databricks,Innominds Software,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.877891,naukri,Scrum Master 3 - India,CME Group,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.895421,naukri,Sql Developer,Quest Global,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.917266,naukri,Data Analyst - Statistics,Indium Software,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.945247,naukri,GCP Data Engineer,Leading Client,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.970967,naukri,Project Management Analyst,Alstom Transportation,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:14.987311,naukri,Azure Fabric Data Engineer with Gen AI,Sonata Software,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:15.006112,naukri,Senior Data Engineer,Aays,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:15.025014,naukri,Temenos Business Analyst,Luxoft,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:15.040168,naukri,PROJECT MANAGER II,TE Connectivity,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:15.055149,naukri,Product Manager,Careernet,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:15.068589,naukri,Senior Data Scientist,Epam Systems,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:15.090821,naukri,"Senior Business Analyst, Cyber and Data Resilience",Kroll,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:15.111476,naukri,Qliksense Developer,CMA CGM,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 15:21:15.128684,naukri,Data Analyst - Cloud,Husky Injection Molding Systems,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:39.274374,naukri,Business Analyst,Snabbit,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:29:44.908970,naukri,Azure Fabric Data Engineer with Gen AI,Sonata Software,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:29:50.250333,naukri,Azure Data Engineer - Face To Face Round,Ascendion,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:29:55.688590,naukri,PySpark Data engineer/Analyst- US MNC (analytics),US MNC (analytics),skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:30:01.063014,naukri,Data Engineer,Tech Mahindra,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:30:06.438570,naukri,Senior Software Engineer,Carelon Global Solutions,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:30:11.830845,naukri,Data Analyst,LKQ India,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:30:17.226892,naukri,Data Scientist Analytics Engineer AI Engineer,Great Learning,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:30:22.562487,naukri,Azure Data Factory (ADF),Infosys,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:30:27.935354,naukri,Data Engineer-Data Platforms-Azure,IBM,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:30:33.470752,naukri,Data Analyst (3 months Contract) | Remote,Innodata India,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-10 23:30:38.879304,naukri,Senior Azure Data Engineer,Tiger Analytics,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:30:44.281331,naukri,Senior Data Engineer,Capgemini,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:30:56.527133,naukri,Azure databricks,Innominds Software,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shankar\debug_screenshots\Azure_databricks_20261010_233056.png
+2026-10-10 23:31:06.924954,naukri,Data Engineer,Solventum,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:31:12.619018,naukri,Data Engineer,Bridgenext,skipped,green-tick mismatch: Location
+2026-10-10 23:31:18.100538,naukri,Azure Data Engineer,Capgemini,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:31:23.435748,naukri,Big Data Engineer,Evoke HR solution,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:31:28.901815,naukri,Data Scientist,Net Connect,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:31:34.296972,naukri,Data Integration Sr Analyst,Zeronorth,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:31:39.826924,naukri,Senior Data Engineer,Talentstream,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:31:45.244377,naukri,Data Analysis - SQL + Core Domain Data skills - Senior Associate,PwC,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:31:50.571470,naukri,Associate Manager - HR Analytics,Sutherland,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:31:56.137847,naukri,Data Analyst - Statistics,Indium Software,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:32:26.160799,naukri,Business Analyst,Infinity learn,applied,
+2026-10-10 23:32:36.998701,naukri,Azure Data Engineer,Tata Consultancy Services,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:32:42.546296,naukri,Senior Data Analyst,Tredence,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:32:47.933848,naukri,Data Engineer(Azure),Tibil Solutions,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:33:03.938252,naukri,Data Engineer -3 To 8 years,CONFIDENTIAL,applied,
+2026-10-10 23:33:21.305563,naukri,"Azure Data Engineer (Exp into Azure Databricks, Pyspark, SQL)",Addecco India,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shankar\debug_screenshots\Azure_Data_Engineer__Exp_into_Azure_Databricks__Pyspark__SQL_20261010_233321.png
+2026-10-10 23:33:32.072740,naukri,Data Engineer,Giggso,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:33:37.518546,naukri,Sr Data Engineer,Prescience Decision Solutions,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:33:42.829657,naukri,Data Analyst at An IT Service Company,Talentzo Delhi,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-10 23:33:48.134587,naukri,Senior Business Analyst,Simplilearn,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:33:53.625780,naukri,Microsoft Fabric Data Engineer / Lead,Hiring for Renowned MNC,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:33:58.950168,naukri,Data Engineer,Blackstraw Technologies,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:34:04.415486,naukri,Gcp Data Engineer,HCLTech,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:34:09.915309,naukri,Azure Data Factory,Hiring for Leading MNC Company,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:34:15.817603,naukri,"Data Analysis & Insights Analyst Insights generation, BI Mumbai",Multinational Company,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:34:21.241957,naukri,Data Analyst,Systechcorp Inc,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-10 23:34:26.595180,naukri,Assistant Manager,LatentView,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:34:31.951138,naukri,Data Migration Consultant,Zensar,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:34:37.357037,naukri,Azure Support Engineer,TQUANTA Technologies,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:34:42.807889,naukri,Senior Developer,Codeforce 360,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:34:48.226329,naukri,Senior Data Engineer,Kroll,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:34:53.638787,naukri,Data Engineer,TEKgence INC,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:34:59.036315,naukri,Data Engineer (Databricks & Fabric) - Remote,Diacto Technologies,skipped,"green-tick mismatch: Location, Work Experience, Key Skills"
+2026-10-10 23:35:04.425613,naukri,Data Engineer,Randomtrees,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-10 23:35:10.198092,naukri,Sql Developer,Quest Global,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:35:15.648642,naukri,Data Engineer_Bangalore_5yrs_October Joiners Only_n face To face,RiDiK,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:35:30.382449,naukri,MDM Specialist,Alstom Transportation,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:35:35.788816,naukri,Mdm Engineer,Tata Consultancy Services,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:35:41.200631,naukri,MDM Tester,Virtusa,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:35:46.704334,naukri,IICS / Informatica Developer (2-8 Years),Infosys,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:35:52.130524,naukri,Reltio MDM/Syndigo MDM/Stibo MDM - SA,PwC,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-10 23:35:57.635240,naukri,Walk -In Drive - SPE/SME/TL- MDM Vendor & Customer Data managemnt- CHN,Cognizant,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:36:02.961175,naukri,MDM SAAS IDMC,Capgemini,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-10 23:36:08.481105,naukri,Master Data Management Developer,Virtusa,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:36:13.879064,naukri,Reltio Developer,Tata Consultancy Services,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-10 23:36:19.321232,naukri,Informatica MDM Developer,Synopsys,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:36:24.931606,naukri,Data Governance and Catalog Consultant,Infosys,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:36:30.353240,naukri,MDM Lead,Amoli Talents,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-10 23:36:35.869531,naukri,STIBO MDM(6-10 Years),Infosys,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-10 23:36:41.402964,naukri,Data Steward Specialist,Anlage Infotech,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:36:47.287170,naukri,Senior Data Governance Consultant,Sii Polska,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience, Key Skills"
+2026-10-10 23:36:53.267517,naukri,Informatica Developer,Careernet,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:36:59.378271,naukri,Power Bi+DAX- @Infosys,Infosys,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:37:05.546306,naukri,BI Developer,Mouser,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-10 23:37:11.603454,naukri,Master data management,MNC,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-10 23:37:17.696608,naukri,Informatica IICS Developer,Pi Square Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:37:23.397804,naukri,Power Bi Developer,Datamatics,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:37:29.100192,naukri,SAP MDG & API Integration Specialist,Xoriant,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-10 23:37:34.794254,naukri,Reltio MDM Developer,Quantzig,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:37:40.240023,naukri,SENIOR DATA ENGINEER - Power BI,Happiest Minds Technologies,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:37:45.876752,naukri,BI Analyst,Covasant Technologies,skipped,"green-tick mismatch: Early Applicant, Location, Key Skills"
+2026-10-10 23:37:51.343967,naukri,Data Analytics Specialist,Niit Learning Systems,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:38:02.810609,naukri,Senior Sql Developer,Indovision Services,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:38:08.427272,naukri,Azure Data Engineer,Futran Tech Solutions,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:38:14.348966,naukri,MS Fabric / Power BI Data Engineer,Hitkari,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:38:20.112998,naukri,Sr. Expert - Data Engineering,VOLKSWAGEN GROUP DIGITAL SOLUTIONS PRIVATE LIMITED,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:38:25.772584,naukri,Power Bi Developer,Bahwan CyberTek,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:38:31.549657,naukri,Azure Data Engineer,NLB,skipped,green-tick mismatch: Location
+2026-10-10 23:38:47.960127,naukri,Reporting Senior Associate-Bangalore location,PwC Service Delivery Center,applied,
+2026-10-10 23:38:58.969786,naukri,Databricks,Infosys,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:39:04.595543,naukri,Senior SQL Developer with SSIS & Power BI,Institutional Shareholder Services,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:39:10.243934,naukri,Azure Data Engineer,Anaptyss,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:39:15.934467,naukri,Power BI Developer & Data Engineer,Trent Limited,skipped,"green-tick mismatch: Early Applicant, Location"
+2026-10-10 23:39:33.063241,naukri,Databricks & AI Engineer,Tekskills,applied,
+2026-10-10 23:39:44.070104,naukri,Data Analyst,Randstad Digital,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:39:49.867555,naukri,Business Analyst,Trueblue,skipped,green-tick mismatch: Location
+2026-10-10 23:39:55.611690,naukri,Senior Power Bi Developer (UK Shift),ADP Private Limited,skipped,green-tick mismatch: Location
+2026-10-10 23:40:01.347752,naukri,Fullstack Power BI Developer,Zion Cloud Solutions,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-10 23:40:07.084373,naukri,EM - DI - Power BI Developer,Embitel Technologies,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:40:12.766249,naukri,Data Analyst,NetM Corporate Solutions,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:40:18.334202,naukri,Walk-in || Senior Power Bi Developer,ARISE TECHGLOBAL PRIVATE LIMITED,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience, Key Skills"
+2026-10-10 23:40:24.022031,naukri,Data Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-10 23:40:29.627905,naukri,Oracle Reporting & Power BI Developer,KR Elixir,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:40:35.654227,naukri,Data Analyst,Intellectual capital HR consulting Pvt Ltd,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:40:41.379279,naukri,Power BI SME (Power BI + Fabric + Tableau),Blend360 India,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:40:47.167667,naukri,Azure Data Engineer,Hexaware Technologies,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:40:52.826378,naukri,Sr. BI & Data Engineer,Sahana System,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience, Key Skills"
+2026-10-10 23:40:58.688427,naukri,Business Reporting Analyst,Metlife,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-10 23:41:04.475594,naukri,Tableau Developer,TVS Credit Services Ltd,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:41:10.070456,naukri,Azure Data Engineer,KPI Partners,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:41:15.807705,naukri,Tableau Developer -Power BI,Zorba Ai,skipped,"green-tick mismatch: Early Applicant, Location"
+2026-10-10 23:41:21.659291,naukri,Walk-in || Azure Data Engineer,Tata Consultancy Services,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:41:37.961084,naukri,Data Analyst,Alstom Transportation,applied,
+2026-10-10 23:41:48.995901,naukri,Data Engineer,Insphere Solutions,skipped,green-tick mismatch: Location
+2026-10-10 23:41:54.658803,naukri,Bi Analyst,Yabx,skipped,"green-tick mismatch: Early Applicant, Location"
+2026-10-10 23:42:00.631772,naukri,Data Engineer,Saint Gobain,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-10 23:42:06.411875,naukri,Power Apps Developer,Tekskills,skipped,"green-tick mismatch: Location, Work Experience, Key Skills"
+2026-10-10 23:42:12.084628,naukri,"Data Analyst - SQL, ETL, Data Warehouse | Job Description",Coforge,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-10 23:42:17.729116,naukri,SQL Developer (Shell Scripting/Python Scripting),Kiya.ai,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:42:23.381600,naukri,Azure Developer,Eagle Information Systems,skipped,"green-tick mismatch: Location, Work Experience, Key Skills"
+2026-10-10 23:42:29.211977,naukri,BI and Data Management Consultant,Infosys,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-10 23:42:34.840252,naukri,Data Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-10 23:42:40.520743,naukri,Specialist - MIS & Analytics || Bangalore,Angel One,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:42:46.544319,naukri,Data Platform Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-10 23:42:52.332985,naukri,Data Analyst,Intellectual capital HR consulting Pvt Ltd,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:42:57.885590,naukri,Data Engineer,Coforge,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:43:03.729612,naukri,Looker BI Engineer,Relq Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:43:09.371323,naukri,Data Engineer,Accion Labs,skipped,green-tick mismatch: Location
+2026-10-10 23:43:14.950932,naukri,Tableau Developer,KPMG India,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:43:20.672270,naukri,Data Engineer,Virtusa,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:43:26.307354,naukri,"Sr Reporting & Automation Dev (Power BI,Power Platform & AI Sols)",Infor,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:43:31.869344,naukri,Databricks,Infosys,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:43:37.360397,naukri,Lead Engineer- BI & Reporting,Pepsico,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience, Key Skills"
+2026-10-10 23:43:42.980490,naukri,Data Engineer,AXA Global Business Services,skipped,green-tick mismatch: Location
+2026-10-10 23:43:48.818314,naukri,Walk in Drive - Power BI Developer 3-4 years,Palni,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:43:54.562907,naukri,Specialist - Data Analyst,US Based Management Consulting Firm,skipped,green-tick mismatch: Location
+2026-10-10 23:44:00.488260,naukri,Sr Analytics Engineer,Quickbase,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:44:06.122258,naukri,Databricks,Infosys,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:44:11.682309,naukri,Lead I - Enterprise Solutions,UST,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:44:17.286988,naukri,Incorta Developer | Contract To Hire,Product based IT Company,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-10 23:44:22.896802,naukri,Data Analytics Engineer,Cloudfulcrum,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience, Key Skills"
+2026-10-10 23:44:28.492014,naukri,databricks engineer,Deloitte,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:44:34.557555,naukri,Data Analyst,Netplus Broadband Services,skipped,"green-tick mismatch: Early Applicant, Location"
+2026-10-10 23:44:40.411856,naukri,Data Analyst,Evoke HR solutions private limited,skipped,"green-tick mismatch: Early Applicant, Location"
+2026-10-10 23:44:45.974084,naukri,Senior Business Analyst,Muthoot Microfin,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:44:51.520758,naukri,Databricks Engineer,Canterr It Services,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:44:57.102929,naukri,"Senior Database Engineer, SQL Server And Azure",Contenterra Software,skipped,green-tick mismatch: Location
+2026-10-10 23:45:02.710599,naukri,Data Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:45:08.232050,naukri,Data Analyst - Consultant/Sr Consultant,Eli Lilly And Company,skipped,Key Skills did not show a green check
+2026-10-10 23:45:08.242123,naukri,Incorta Developer- Hyderabad,iitjobs,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:45:08.265888,naukri,Reporting & Analytics Specialist,Cognizant,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:45:08.277809,naukri,Azure Data Engineer,KPI Partners,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:45:08.294864,naukri,Everseen - BI Analyst,Everseen India Infotech,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:45:08.297878,naukri,Data Quality Engineer(ETL Testing)Associate/Senior/Lead,Epam Systems,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:45:08.323133,naukri,Ms Sql Database Administrator,Nexturn,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:45:08.338969,naukri,Data Analyst,Leading Asset Management Firm,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:45:08.355696,naukri,Workforce Management Data Analyst,Porch,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:46:13.575393,naukri,Data Platform Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-10 23:46:19.387244,naukri,Incorta Developer- Hyderabad,iitjobs,skipped,green-tick mismatch: Location
+2026-10-10 23:46:25.059091,naukri,Reporting & Analytics Specialist,Cognizant,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-10 23:46:30.743437,naukri,Azure Data Engineer,KPI Partners,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:46:36.504314,naukri,Everseen - BI Analyst,Everseen India Infotech,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-10 23:46:42.257240,naukri,Data Quality Engineer(ETL Testing)Associate/Senior/Lead,Epam Systems,skipped,green-tick mismatch: Location
+2026-10-10 23:46:48.161285,naukri,Ms Sql Database Administrator,Nexturn,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience, Key Skills"
+2026-10-10 23:46:53.847473,naukri,Data Analyst,Leading Asset Management Firm,skipped,green-tick mismatch: Location
+2026-10-10 23:46:59.592093,naukri,Workforce Management Data Analyst,Porch,skipped,green-tick mismatch: Location
+2026-10-10 23:50:49.933886,naukri,Azure Data Engineer,Cloudaeon,applied,
+2026-10-10 23:51:04.081629,naukri,"Data Engineer - Cloud ETL, Azure, Data Bricks, Snowflake, PySpark",Optum,skipped,external apply URL not exposed
+2026-10-10 23:51:09.449349,naukri,Cognizant is hiring For Azure Data Engineer role in Pune,Cognizant,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:51:14.859876,naukri,Analytics and Modeling Senior Analyst,Accenture,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:51:20.177833,naukri,Data Analytics Engineer,APPLIED INFORMATION SCIENCES (AIS),skipped,green-tick mismatch: Work Experience
+2026-10-10 23:51:25.632226,naukri,Senior Data Engineer - Azure Databricks Platform,Enermech,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:51:31.033238,naukri,Senior Data Engineer,Iris Software,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:51:36.393212,naukri,Senior Data engineer,Devicemotion Technologies,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:51:41.888240,naukri,Senior Data Engineer,Michael Page,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:51:47.194826,naukri,Senior Azure Data Engineer (Immediate Joiner BPO Background) Gurugram,TP,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:51:52.583703,naukri,Data Engineer,Cloudstrats Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:51:57.982903,naukri,Data Analyst / Consultant- Credit Card Analytics,Proclink,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:52:12.964052,naukri,Snowflake Data Analyst,Tata Consultancy Services,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:52:18.380819,naukri,Data Scientist,Capgemini,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:52:23.817440,naukri,Data Engineer,eClerx,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:52:29.756693,naukri,Data Modeler,Infosys,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:52:35.858732,naukri,Senior Big Data Engineer | Hadoop | Spark | Python | PL/SQL | ETL,Cognizant,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:52:42.005761,naukri,Data Analyst,Astika Software Technologies,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 23:52:48.105202,naukri,Data Analyst,Barclays,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:52:54.305161,naukri,Data Governance Specialist,Crisil,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:53:00.524366,naukri,Walk-in || Snowflake Data Engineer,HCLTech,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-10 23:53:06.726902,naukri,Python ETL Data Testing Lead,Trigent Software,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:53:12.718658,naukri,Data Analyst,Forsys,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:53:18.937454,naukri,Analytics Technical Specialist,Alstom Transportation,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:53:25.032165,naukri,Business Technology Solutions Associate Consultant _R&D,ZS,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:53:31.121371,naukri,Data Analyst,Intellectual capital HR consulting Pvt Ltd,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:53:37.190774,naukri,Data Analyst - Cloud,Husky Injection Molding Systems,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:53:43.281353,naukri,Data Analyst,Indium Software,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-10 23:53:49.260222,naukri,Data Analyst Demand Planning,International Flavors & Fragrances (IFF),skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:53:55.074366,naukri,Senior/Lead Data Analyst,Recruise India Consulting,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:54:01.055807,naukri,"Consultant - Data/Business Analysis - Python, SQL - 6+ Years - Remote",Crescendo Global Leadership Hiring India,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:54:07.018475,naukri,PySpark Data engineer/Analyst- US MNC (analytics),US MNC (analytics),skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:54:12.947476,naukri,"Senior Data Analyst, Field Analytics",Okta,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:54:19.017045,naukri,"Python Technical Lead - Data Analysis, SQL",Logic Planet,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:54:25.295901,naukri,"Developer, Data Analysis and consulting",Transunion,skipped,external apply URL not exposed
+2026-10-10 23:54:30.766888,naukri,Analyst-Data Analytics,AMERICAN EXPRESS,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-10 23:54:36.264554,naukri,Data Scientist,Apptad,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:54:42.303595,naukri,Senior Analyst - Data Analytics,LatentView,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:55:59.365223,naukri,"Data Scientist, Business Intelligence",Tresvista Financial Services,skipped,Send button stayed disabled after answering: Date Of Birth
+2026-10-10 23:56:05.846133,naukri,Sr. Data Analyst,Proclink,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:56:22.960784,naukri,Data Engineer,Qentelli,applied,
+2026-10-10 23:56:34.302040,naukri,Power BI / Data Analytics Consultant,Clyptus Software Solutions,skipped,"green-tick mismatch: Early Applicant, Location"
+2026-10-10 23:56:40.423550,naukri,Data Engineer,KPI Partners,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:56:46.518663,naukri,Data Analyst - Analytics Engineering & AI,Thermo Fisher Scientific,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:56:52.573368,naukri,Data Analyst - Financial Services,Quantumneuron Technologies,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:56:58.593770,naukri,Procurement Analytics & Data Analyst,Rolls-Royce,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:57:08.217776,naukri,"Data Engineer, People Analytics",Zoom Start India,skipped,"couldn't open job detail tab for Data Engineer, People Analytics"
+2026-10-10 23:57:17.583187,naukri,Data Engineer,Bahwan CyberTek,skipped,couldn't open job detail tab for Data Engineer
+2026-10-10 23:57:23.628144,naukri,Data Science Specialist,Dow Chemical International Private Limited,skipped,external apply URL not exposed
+2026-10-10 23:57:33.204395,naukri,Sr Data Engineer,Purpletalk,skipped,couldn't open job detail tab for Sr Data Engineer
+2026-10-10 23:57:38.859819,naukri,Analyst - Supply Chain Analytics,United Airlines,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 23:57:48.127295,naukri,Data Engineer,Cirruslabs,skipped,couldn't open job detail tab for Data Engineer
+2026-10-10 23:57:57.404788,naukri,Data Engineer,Skyleaf Consultants,skipped,couldn't open job detail tab for Data Engineer
+2026-10-10 23:58:05.127029,naukri,Alteryx Data Workflow Developer-Bangalore Location,Infosys,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed
+Call log:
+waiting for locator(""article.jobTuple[data-job-id=\""260926006189\""] .title"")
+"
+2026-10-10 23:58:05.145671,naukri,Data Engineer,Insight Global,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:58:05.163138,naukri,Data Modeler,Accenture,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:58:05.184032,naukri,Data Engineer (Data Scientist),Caterpillar Inc,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:58:05.203353,naukri,P1- GP-QA Specialist - ETL / Data Engg / Power BI / Microsoft Fabric,Atlas Systems,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:59:28.039683,naukri,"Data Engineer - Cloud ETL, Azure, Data Bricks, Snowflake, PySpark",Optum,skipped,external apply URL not exposed
+2026-10-10 23:59:43.061043,naukri,"Developer, Data Analysis and consulting",Transunion,skipped,external apply URL not exposed
+2026-10-10 23:59:59.148687,naukri,"Data Scientist, Business Intelligence",Tresvista Financial Services,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shankar\debug_screenshots\Data_Scientist__Business_Intelligence_20261010_235958.png
+2026-10-11 00:00:09.831676,naukri,Data Science Specialist,Dow Chemical International Private Limited,skipped,external apply URL not exposed
+2026-10-11 00:00:16.274194,naukri,Data Engineer (Data Scientist),Caterpillar Inc,skipped,external apply URL not exposed
+2026-10-11 00:00:28.095263,naukri,Data Platform Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-11 00:00:33.996289,naukri,Power Programmer - Specialist Programmer Data Engineering (Q3-FY-27),Infosys,skipped,green-tick mismatch: Work Experience
+2026-10-11 00:00:40.082753,naukri,Data Analyst,Leading Asset Management Firm,skipped,green-tick mismatch: Early Applicant
+2026-10-11 00:00:45.813565,naukri,Cloud Data Engineer,Nidus Softdev,skipped,green-tick mismatch: Location
+2026-10-11 00:00:52.517840,naukri,Data Engineer,Lloyds Technology Centre,skipped,external apply URL not exposed
+2026-10-11 00:00:58.733798,naukri,Databricks,Infosys,skipped,green-tick mismatch: Work Experience
+2026-10-11 00:01:04.848488,naukri,Senior Consultant,Syansoft,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-11 00:01:11.491602,naukri,Data Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-11 00:01:17.485808,naukri,Data Tester,Ignitho,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-11 00:01:24.142315,naukri,Data Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-11 00:01:30.106067,naukri,Lead Data Analyst - R01565586,Brillio,skipped,green-tick mismatch: Work Experience
+2026-10-11 00:01:35.700201,naukri,Data Analyst,Leading Asset Management Firm,skipped,green-tick mismatch: Early Applicant
+2026-10-11 00:01:41.135088,naukri,Data Analyst,Careernet,skipped,green-tick mismatch: Location
+2026-10-11 00:01:47.155373,naukri,Sr EY - GDS Consulting - AI and DATA - Azure Data Engineer,EY,skipped,external apply URL not exposed
+2026-10-11 00:01:52.568983,naukri,Data Governance,Cerebra,skipped,green-tick mismatch: Early Applicant
+2026-10-11 00:01:57.976210,naukri,Data Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-11 00:02:03.439305,naukri,Big Data Lead,Hexaware Technologies,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-11 00:02:09.417557,naukri,Jr. Software Engineer,Q3 technologies,skipped,green-tick mismatch: Work Experience
+2026-10-11 00:03:41.267657,naukri,SQL DBA,Wissen Digital,applied,
+2026-10-11 00:03:52.075492,naukri,Data Engineering,ITC Infotech,skipped,green-tick mismatch: Work Experience
+2026-10-11 00:03:57.556971,naukri,Data Analyst,Topgear Consultants,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-11 00:04:02.887154,naukri,Power Platform Developer,Viaprom Technologies,skipped,green-tick mismatch: Work Experience

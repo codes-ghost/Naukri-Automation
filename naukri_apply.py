@@ -649,6 +649,7 @@ def open_recommended_job(page, card: dict):
         detail_page.wait_for_load_state("domcontentloaded", timeout=10000)
     except PWTimeout:
         pass
+    detail_page.bring_to_front()
     return detail_page
 
 
@@ -1220,6 +1221,7 @@ def run(hide_rejected_only: bool = False, hide_rejected: bool = True,
         visited_categories = set()
 
         page.goto("https://www.naukri.com/mnjuser/homepage")
+        page.bring_to_front()
         time.sleep(1.5)
         stop = page_has_stop_signal(page)
         if stop:

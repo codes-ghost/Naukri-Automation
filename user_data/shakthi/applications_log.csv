@@ -1,0 +1,546 @@
+timestamp,source,title,company,status,reason
+2026-10-08 15:44:28.986666,naukri,Quality Assurance Engineering Specialist,GE VERNOVA,skipped,green-tick mismatch: Work Experience
+2026-10-08 15:45:30.056516,naukri,Automation Test Engineer,Ascendion,skipped,no option selected in the browser for: Are you comfortable to come for Face to Face drive on 10th Oct at our Pune Kharadi office?
+2026-10-08 15:45:35.510848,naukri,Automation Test Engineer - Telecom,Tech Mahindra,skipped,green-tick mismatch: Key Skills
+2026-10-08 15:45:50.463833,naukri,Software Developer Test Engineer (SDET),Infospoke Technologies,skipped,no option selected in the browser for: Are you okay with a contractual role ?
+2026-10-08 15:46:06.181673,naukri,QA Automation Engineer,Vikruthi Technologies,applied,
+2026-10-08 15:46:25.736028,naukri,Qa Automation Test Engineer,ZIGRAM,applied,
+2026-10-08 15:46:37.005358,naukri,Senior Qa Engineer,Codincity Digital Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-08 15:47:22.186969,naukri,QA Automation Engineer Mobile,Tegna,skipped,couldn't confirm a manual answer was entered: How many years of experience do you have in Appium Server?
+2026-10-08 15:47:27.915891,naukri,SDET( Automation Tester ),Orcapod Consulting Services,skipped,green-tick mismatch: Work Experience
+2026-10-08 15:47:38.497875,naukri,Senior Automation Tester,EY,uncertain,couldn't confirm submission -- screenshot saved to debug_screenshots\Senior_Automation_Tester_20261008_154738.png
+2026-10-08 15:47:50.180590,naukri,Opening For QA Engineer (Functional & Automation Testing),Multinational Company,skipped,green-tick mismatch: Work Experience
+2026-10-08 15:47:56.176113,naukri,Quality Analyst,99yellow,skipped,couldn't confirm a manual answer was entered: Total Experience?
+2026-10-08 15:48:10.726205,naukri,Test Engineer,Tata Technologies,applied,
+2026-10-08 15:48:23.159732,naukri,SDET || Immediate Joiners,Iris Software,skipped,green-tick mismatch: Work Experience
+2026-10-08 15:48:37.653514,naukri,Qa Automation Testing Engineer,LanceSoft,applied,
+2026-10-08 15:49:29.544106,naukri,Sdet Engineer,Experion,skipped,couldn't confirm a manual answer was entered: How many years of experience do you have in UI Testing?
+2026-10-08 15:49:35.691238,naukri,QA Lead,Koireader Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-08 15:50:18.502528,naukri,Automation Engineer with Playwright,Blackstraw Technologies,skipped,no option selected in the browser for: Are you currently living in or ready to relocate to Chennai ?
+2026-10-08 15:50:33.243517,naukri,Senior Test Automation Engineer,Persistent,applied,
+2026-10-08 15:50:44.601742,naukri,Quality Analyst,ZettaMine Labs,skipped,green-tick mismatch: Work Experience
+2026-10-08 15:50:59.120911,naukri,Software Test Engineer,Yes Madam,applied,
+2026-10-08 15:51:09.922817,naukri,Senior QA,Luxoft,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 15:51:16.490025,naukri,Test Automation Lead,Accenture,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-08 15:51:49.082397,naukri,Automation Tester,Infosys,skipped,couldn't confirm a manual answer was entered: Did u work with with Infosys? If worked share EX-INFY ID
+2026-10-08 15:51:54.884878,naukri,Urgent opening For Automation QA+AI position with Virtusa,Virtusa,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 15:52:09.665818,naukri,Team Lead,BSL Placement Services,skipped,couldn't confirm a manual answer was entered: How many years of experience do you have in (Automation Testing OR Automated Testing OR Test Automation OR QA Automation
+2026-10-08 15:52:15.281503,naukri,Qa Manual Test Engineer (Payments),Smart Energy Water,skipped,green-tick mismatch: Location
+2026-10-08 15:52:20.658126,naukri,SDET Automation Test Engineer,Bristlecone,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 15:52:35.036788,naukri,Appium Testers - Bangalore/Chennai/Pune/mumbai,H&B Hr Solutions,applied,
+2026-10-08 15:52:46.703820,naukri,Guidewire Automation Professional,Capgemini,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 15:52:52.567856,naukri,JavaScript Automation Test Engineer,LTM,skipped,green-tick mismatch: Work Experience
+2026-10-08 15:52:59.051192,naukri,"Senior AI Testing- QA Engineer -- (Bangalore, Mumbai )",Qualitykiosk Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-08 15:53:04.435732,naukri,Senior QA Engineer ( Automation + JMeter),R Systems International,skipped,green-tick mismatch: Work Experience
+2026-10-08 15:53:22.181211,naukri,Playwright and Typescript,Capgemini,skipped,no option selected in the browser for: Are you available for Face to Face interview on 10th oct in Hyderabad?
+2026-10-08 15:53:29.406744,naukri,Senior Software Developer Engineer in Test,Experian,skipped,green-tick mismatch: Early Applicant
+2026-10-08 15:53:34.726904,naukri,QET SDET with AWS,Tata Consultancy Services,skipped,green-tick mismatch: Work Experience
+2026-10-08 15:53:40.754413,naukri,Software,Trigent Software,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 15:53:46.684782,naukri,Qa Engineer,Synechron,skipped,green-tick mismatch: Work Experience
+2026-10-08 15:53:52.150557,naukri,Senior Automation Engineer,Nable Solutions,skipped,green-tick mismatch: Work Experience
+2026-10-08 15:54:06.608944,naukri,AI Quality Assurance Engineer,Corover,applied,
+2026-10-08 15:54:25.418447,naukri,Senior QA Engineer Manual & Automation,Elintex Technologies,skipped,"no option selected in the browser for: Do you have experience testing React, Node.js, MERN, Python, Django or Java-based applications?"
+2026-10-08 15:55:01.105276,naukri,Data Testing - Quality Engineering,Tiger Analytics,skipped,couldn't confirm a manual answer was entered: Are you available for an in person discussion in Bangalore office on 10th Oct 2026?
+2026-10-08 15:55:07.877273,naukri,SDET - Senior Engineer,Iris Software,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 15:55:14.384928,naukri,Senior Design Verification Engineer,Sunrise Biztech Systems,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-08 15:57:56.996184,naukri,Qa Engineer,AKM Global,skipped,couldn't confirm a manual answer was entered: How many years of experience do you have in Mobile Testing?
+2026-10-08 15:57:57.007611,naukri,Associate Business Analyst,Qualitykiosk Technologies,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 15:57:57.014562,naukri,C2H- Infosys Team Centre Developer,Infosys,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 15:57:57.029810,naukri,Staff AI Agentic Automation Engineer,ETS Assessment Services Pvt Ltd,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 15:57:57.037761,naukri,Senior Automation Engineer_Contract Role_Immediate Joiners,CIEL HR,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 15:57:57.051600,naukri,Data Engineer,CGI,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 15:57:57.058639,naukri,Senior Test Engineer,Lendingtree Research Services,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 15:57:57.072588,naukri,Automation Test Engineer,Paxcom India,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 15:57:57.083992,naukri,Technical Lead-Testing Services,Birlasoft,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 15:57:57.094409,naukri,Systems Test Engineering Lead,Hitachi Energy,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:01:35.075475,naukri,Quality Analyst,99yellow,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:01:35.103252,naukri,Associate Business Analyst,Qualitykiosk Technologies,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:01:35.119066,naukri,C2H- Infosys Team Centre Developer,Infosys,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:01:35.144185,naukri,Staff AI Agentic Automation Engineer,ETS Assessment Services Pvt Ltd,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:01:35.162645,naukri,Senior Automation Engineer_Contract Role_Immediate Joiners,CIEL HR,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:01:35.183082,naukri,Data Engineer,CGI,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:01:35.197056,naukri,Senior Test Engineer,Lendingtree Research Services,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:01:35.213078,naukri,Automation Test Engineer,Paxcom India,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:01:35.240093,naukri,Technical Lead-Testing Services,Birlasoft,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:01:35.244719,naukri,Systems Test Engineering Lead,Hitachi Energy,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 16:03:14.972662,naukri,Associate Business Analyst,Qualitykiosk Technologies,skipped,external apply URL not exposed
+2026-10-08 16:03:19.346723,naukri,C2H- Infosys Team Centre Developer,Infosys,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:03:23.794979,naukri,Staff AI Agentic Automation Engineer,ETS Assessment Services Pvt Ltd,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-08 16:03:46.432690,naukri,Senior Automation Engineer_Contract Role_Immediate Joiners,CIEL HR,applied,
+2026-10-08 16:04:08.088652,naukri,Data Engineer,CGI,applied,
+2026-10-08 16:04:18.076085,naukri,Senior Test Engineer,Lendingtree Research Services,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:04:33.592687,naukri,Automation Test Engineer,Paxcom India,applied,
+2026-10-08 16:04:43.048392,naukri,Technical Lead-Testing Services,Birlasoft,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 16:04:47.238923,naukri,Systems Test Engineering Lead,Hitachi Energy,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 16:05:01.242726,naukri,Automation Test Engineer,Cyient,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 16:05:07.069693,naukri,QA Automation Testing Engineer (Java + Selenium)- Hyderabad,Infosys,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:05:13.027520,naukri,Qa Automation,EY,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:05:18.855710,naukri,SDET,Info Edge,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:05:40.777256,naukri,Cypress Automation Tester,Capgemini,applied,
+2026-10-08 16:05:51.868835,naukri,Appium Tester,BNP Paribas,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:05:57.597096,naukri,Automation Testing,Coforge,skipped,"green-tick mismatch: Early Applicant, Location"
+2026-10-08 16:06:03.458042,naukri,QA Automation Tester with Python & Playwright,Virtusa,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:06:10.124865,naukri,Walk-in || Automation Test Engineer,Epam Systems,skipped,Key Skills did not show a green check
+2026-10-08 16:06:15.917663,naukri,Quality Engineer Lead,Infosys,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-08 16:06:32.401449,naukri,SDET,Vikruthi Technologies,applied,
+2026-10-08 16:06:43.446522,naukri,SDET,Iris Software,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:06:49.055259,naukri,Qa Engineer,Naukri Assist,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:06:54.811902,naukri,Test Engineer,VEHERE TECHNOLOGIES PRIVATE LIMITED,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:07:00.686968,naukri,Qa Engineer,Saisystems Health,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:07:06.700731,naukri,Api Automation Tester,Tata Consultancy Services,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:07:13.174181,naukri,Walk-in || Qa Engineer,Cloud Angles Digital Transformation,skipped,Key Skills did not show a green check
+2026-10-08 16:07:19.166139,naukri,Cypress Automation Tester,CGI,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:07:25.067169,naukri,Quality Engineer,Deloitte US-India Offices,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:07:39.999467,naukri,C# SDET QA,Ch Dindayal Subudhi,applied,
+2026-10-08 16:07:50.923089,naukri,Automation Testing+TestSigma,IT Company,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:08:03.722013,naukri,Senior Functional Tester,Sapient (publicissapient),uncertain,couldn't confirm submission -- screenshot saved to debug_screenshots\Senior_Functional_Tester_20261008_160803.png
+2026-10-08 16:08:15.091228,naukri,QA/Test Engineers- Automation & Manual Testing,Hatchtra Innotech,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:08:21.312289,naukri,QA Automation Engineer,Bahwan CyberTek,skipped,external apply URL not exposed
+2026-10-08 16:08:27.257170,naukri,QA Automation,Shell Infotech,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:08:33.330505,naukri,Software Test Engineer,Thoughts2Binary,skipped,job was posted 336 hours ago (limit: 24 hours)
+2026-10-08 16:08:39.083687,naukri,Senior Test Automation Engineer,Capgemini,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:08:45.208157,naukri,Automation QE- Cypress | Senior Test Engineer / Lead Test Engineer,Imedhas,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:08:51.035063,naukri,Testing with Data ware house,Tech Mahindra,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 16:08:56.793278,naukri,UFT Automation Tester,HCLTech,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:09:02.627358,naukri,QA Automation Engineer,Flynaut,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:09:19.363732,naukri,Qa Automation Testing Engineer,Tekskills India,applied,
+2026-10-08 16:09:30.246791,naukri,QA Engineer (Manual + Playwright Automation),Deloitte US-India Offices,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:09:35.912478,naukri,QA Test Engineer (Playwright),BMW Techworks India,skipped,job was posted 552 hours ago (limit: 24 hours)
+2026-10-08 16:09:47.020191,naukri,Quality Assurance Engineer Specialist,GE VERNOVA,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:09:52.812529,naukri,Technical Services Engineer - Document Validator_11931,Fujitsu,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:10:09.060039,naukri,Functional Test Engineer,Crestech Software Systems,applied,
+2026-10-08 16:10:34.853521,naukri,SDET Engineer,Capgemini,applied,
+2026-10-08 16:10:45.937019,naukri,Test Automation Lead,Accenture,skipped,"green-tick mismatch: Early Applicant, Location"
+2026-10-08 16:10:51.879627,naukri,Custom Software Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-08 16:10:57.527001,naukri,Sr. Verif Engineer/Lead Verif Engineer,Kinara.ai,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:11:03.341324,naukri,Senior QA Automation Engineer,Envision Technology Solutions,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:11:25.388374,naukri,Associate Business Analyst,Qualitykiosk Technologies,skipped,external apply URL not exposed
+2026-10-08 16:11:39.847235,naukri,QA Automation Engineer,Bahwan CyberTek,skipped,external apply URL not exposed
+2026-10-08 16:11:51.881340,naukri,Custom Software Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-08 17:42:17.905718,naukri,Quality Analyst,99yellow,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\Quality_Analyst_20261008_174217.png
+2026-10-08 17:42:37.403040,naukri,Playwright Automation - Hyderabad - Face To face Interview,Capgemini,applied,
+2026-10-08 17:42:58.981571,naukri,Playwright with AI Testing - Bangalore,Hexaware Technologies,applied,
+2026-10-08 17:43:58.293202,naukri,Data Engineer( Snowflake & Azure),V2SOLUTIONS,applied,
+2026-10-08 17:44:20.227452,naukri,"Analyst Senior, Quality Assurance",FIS,applied,
+2026-10-08 17:44:42.422571,naukri,Automation Test Lead,Anlage Infotech,applied,
+2026-10-08 17:44:52.769900,naukri,Sr SDET - Automation,Srijan,skipped,green-tick mismatch: Work Experience
+2026-10-08 17:44:58.327537,naukri,Playwright Automation Lead,Capgemini,skipped,green-tick mismatch: Work Experience
+2026-10-08 17:45:36.422200,naukri,Data Engineer,Cirruslabs,applied,
+2026-10-08 17:45:45.697723,naukri,Data Engineer,Randomtrees,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:45:49.625332,naukri,Data Analyst,LKQ India,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:45:53.569750,naukri,Data Engineer(Azure),Tibil Solutions,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:45:57.617219,naukri,Sr SDET - Automation,Material+,skipped,green-tick mismatch: Work Experience
+2026-10-08 17:46:01.575661,naukri,Sr SDET - Automation,Srijan,skipped,green-tick mismatch: Work Experience
+2026-10-08 17:46:17.268633,naukri,Qa Automation Testing Engineer,ACL Digital,applied,
+2026-10-08 17:46:36.075431,naukri,Playwright Automation Testing,Cognizant,applied,
+2026-10-08 17:46:55.735808,naukri,Data Engineer,Persistent,applied,
+2026-10-08 17:47:15.426838,naukri,Data Engineer,Techouts,applied,
+2026-10-08 17:47:24.699767,naukri,Guidewire _ Functional QA Tester,Deloitte US-India Offices,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:47:28.751152,naukri,PLAYWRIGHT Analyst,Infosys,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:47:33.062330,naukri,"Sr QA Engineer -Espresso, Kotlin, Roborazzi,JUnit, Git Actions,Android",Blue Yonder,skipped,external apply URL not exposed
+2026-10-08 17:47:37.555967,naukri,Data Engineer,Codeforce 360,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:47:52.248845,naukri,Data Engineer,Bahwan CyberTek,applied,
+2026-10-08 17:48:02.592891,naukri,"Big Data Engineer & Big Data Lead ( Spark, Scala & AWS )",Coforge,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:48:07.281491,naukri,Quality Engineering Lead,Accenture,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 17:48:11.232558,naukri,Data Engineer,Apollo Hospitals,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:48:29.872753,naukri,Data Engineer,RiDiK,applied,
+2026-10-08 17:49:00.186830,naukri,QA Automation Engineer,EduRun Group,applied,
+2026-10-08 17:49:10.900725,naukri,QA Automation Engineer,Bahwan CyberTek,skipped,external apply URL not exposed
+2026-10-08 17:49:21.560395,naukri,Databricks Data Engineer,Infosys,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:49:26.885312,naukri,QA Automation Engineer,MNC Hiring,skipped,green-tick mismatch: Location
+2026-10-08 17:49:42.995133,naukri,Software Test Engineer,MNC Group,applied,
+2026-10-08 17:49:53.487496,naukri,Hiring - Mobile Automation Testers - Appium & Playwright | Mumbai,Planit Testing India,skipped,green-tick mismatch: Location
+2026-10-08 17:49:59.166836,naukri,Sr Automation Test Engineers,Panorama Software Solutions,skipped,external apply URL not exposed
+2026-10-08 17:50:04.617631,naukri,Walk-in || Playwright Automation Tester F2F-10 October (Saturday),Capgemini,skipped,no apply button found
+2026-10-08 17:50:09.958999,naukri,Playwright automation,Capgemini,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 17:50:15.772971,naukri,Databricks Data Engineer,Infosys,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:50:21.526336,naukri,Salesforce QA Engineer,IDEMIA,skipped,external apply URL not exposed
+2026-10-08 17:50:26.842705,naukri,Custom Software Engineer,Accenture,skipped,green-tick mismatch: Early Applicant
+2026-10-08 17:50:32.288093,naukri,QA & Software Testing,Sword Software,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:50:37.593060,naukri,Custom Software Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 17:50:42.962631,naukri,Automation Engineer,Algoshack Technologies,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 17:50:48.328003,naukri,Playwright automation 2- 3 yrs,Infosys,skipped,green-tick mismatch: Work Experience
+2026-10-08 17:50:53.707605,naukri,Sr. QA Engineer,Quarks Technosoft,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 17:50:59.080471,naukri,Data Analyst,GE VERNOVA,skipped,green-tick mismatch: Key Skills
+2026-10-08 17:51:17.555074,naukri,Senior Data Engineer,Involead,applied,
+2026-10-08 17:51:42.156170,naukri,Data Engineer,ITC Infotech,skipped,couldn't open job detail tab for Data Engineer
+2026-10-08 23:06:56.737134,naukri,Senior Data Engineer,Aays,applied,
+2026-10-08 23:07:06.296193,naukri,Data Engineer / Lead,Tech Mahindra,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:07:17.477686,naukri,Aws Data Engineer,CGI,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\Aws_Data_Engineer_20261008_230717.png
+2026-10-08 23:07:50.159659,naukri,Data Engineer,Blackstraw Technologies,applied,
+2026-10-08 23:07:59.701756,naukri,Data Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 23:08:03.842388,naukri,Data Engineer,TEKgence INC,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:08:30.079776,naukri,Data Engineer,Evoke HR solutions private limited,applied,
+2026-10-08 23:08:40.844099,naukri,Senior Data Engineer,LatentView,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:08:45.368393,naukri,Pyspark Data Engineer,Synechron,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:09:00.355947,naukri,Data Engineer - 3 To 7 years,CONFIDENTIAL,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\Data_Engineer___3_To_7_years_20261008_230900.png
+2026-10-08 23:09:09.828440,naukri,Data Engineer,Insight Global,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:09:14.043736,naukri,Opening For Data Engineer Bangalore,Multinational Company,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:09:18.419004,naukri,Data Engineer,firstmeridian,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:09:22.626763,naukri,Data Engineer,Naukri Assist,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:09:27.013539,naukri,Platform Engineer _Azure and Databricks_Salary upto 21LPA,"Trigent Software,",skipped,green-tick mismatch: Key Skills
+2026-10-08 23:09:31.644725,naukri,Azure Data Engineer,KPI Partners,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:09:46.647845,naukri,Data Engineer - Python,Bahwan CyberTek,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\Data_Engineer___Python_20261008_230946.png
+2026-10-08 23:09:56.091800,naukri,Urgent Opening For Data Engineer,Talent21,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:10:00.431313,naukri,Data Engineer,Qentelli,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:10:04.883811,naukri,Aws Data Engineer,Teamlease Digital Private Limted,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:10:09.126633,naukri,Data Engineer,Capgemini,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:10:13.431000,naukri,Databricks Engineer,Wipro,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:10:28.577567,naukri,CACI Hiring I AWS Data Engineer in Hyderabad,Caci Services,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\CACI_Hiring_I_AWS_Data_Engineer_in_Hyderabad_20261008_231028.png
+2026-10-08 23:10:38.013881,naukri,GCP Data Engineer - US MNC (analytics),US MNC (analytics),skipped,green-tick mismatch: Key Skills
+2026-10-08 23:10:42.209803,naukri,Lead Data Engineer,Software Company,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:10:46.611330,naukri,Senior Data Engineer,Maruti Techlabs,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:11:01.758949,naukri,Data Engineer,Solventum,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\Data_Engineer_20261008_231101.png
+2026-10-08 23:11:22.290811,naukri,AI Automation Test Engineer,Sensiple,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\AI_Automation_Test_Engineer_20261008_231122.png
+2026-10-08 23:11:31.582246,naukri,Aws Data Engineer,Codeboard Technology,skipped,Key Skills did not show a green check
+2026-10-08 23:11:35.888854,naukri,Lead Data Engineer,Shorthills Ai,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-08 23:11:40.148129,naukri,Software Development Engineer 3,Intelemec,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:11:44.559270,naukri,Sr Data Engineer (Data Platforms)-1,Mastercard,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:12:09.681759,naukri,Automation Test Engineer,Tata Consultancy Services,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\Automation_Test_Engineer_20261008_231209.png
+2026-10-08 23:12:20.648345,naukri,QA Automation,Calsoft,skipped,job was posted 528 hours ago (limit: 24 hours)
+2026-10-08 23:12:26.340521,naukri,Qa Engineer,Statusneo Technology Consulting,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:12:32.264646,naukri,QA Automation Engineer (Playwright & Selenium),Jade Global,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:12:38.327003,naukri,QA Automation Engineer,Bahwan CyberTek,skipped,external apply URL not exposed
+2026-10-08 23:12:49.612860,naukri,Data Engineer,ITC Infotech,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:12:55.521230,naukri,Lead Engineer - Data Engineer,A Leading Solar Company!!,skipped,green-tick mismatch: Location
+2026-10-08 23:13:12.284907,naukri,Data Engineer,Berkadia,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\Data_Engineer_20261008_231312.png
+2026-10-08 23:13:23.937773,naukri,Automation Engineer,Infosys BPM,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:13:32.717132,naukri,Sr Development Engineer in Test,Sailpoint Technologies,skipped,couldn't open job detail tab for Sr Development Engineer in Test
+2026-10-08 23:13:38.806898,naukri,Custom Software Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 23:13:44.493262,naukri,Custom Software Engineer,Accenture,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:13:50.314100,naukri,Azure Data Engineer,CGI,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:13:55.979815,naukri,Walk-in || Playwright Automation Tester F2F-10 October (Saturday),Capgemini,skipped,no apply button found
+2026-10-08 23:14:01.737873,naukri,Data Engineer,Helio Insights,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-08 23:14:07.635619,naukri,Python Automation Engineer-Trivandrum,Quest Global,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-08 23:14:13.567692,naukri,Sr QA Engineer,Artex Risk Solutions,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:14:19.308394,naukri,Intermediate Qa Engineer,Dbiz.ai,skipped,green-tick mismatch: Location
+2026-10-08 23:14:25.045127,naukri,Pre sales - Databricks / Qlik,Wow.Jobs,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-08 23:14:30.876817,naukri,Automation Test Engineer,Kizora,skipped,green-tick mismatch: Location
+2026-10-08 23:14:36.632117,naukri,Assistant Manager - Data Engineer,BDO India,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-08 23:14:42.554310,naukri,Gcp Data Engineer,HCLTech,skipped,green-tick mismatch: Location
+2026-10-08 23:15:25.573547,naukri,Data Engineer,Codeforce 360,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\Data_Engineer_20261008_231525.png
+2026-10-08 23:15:34.827477,naukri,Data Engineer / Lead,Tech Mahindra,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:15:44.509053,naukri,"Big Data Engineer & Big Data Lead ( Spark, Scala & AWS )",Coforge,skipped,"unexpected error: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+waiting for locator(""[contenteditable=\""true\""], [contenteditable=\""\""], input[type=radio], input[type=checkbox], .botMsg"") to be visible
+"
+2026-10-08 23:15:44.608949,naukri,Data Engineer,Accenture,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.641531,naukri,Data Engineer,TEKgence INC,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.668932,naukri,Senior Data Engineer,LatentView,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.697534,naukri,Pyspark Data Engineer,Synechron,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.727649,naukri,Data Engineer,Insight Global,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.756978,naukri,Opening For Data Engineer Bangalore,Multinational Company,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.782486,naukri,Data Engineer,Randomtrees,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.810093,naukri,Data Engineer,Apollo Hospitals,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.836292,naukri,Data Engineer,firstmeridian,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.863258,naukri,Data Engineer,Naukri Assist,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.884109,naukri,Platform Engineer _Azure and Databricks_Salary upto 21LPA,"Trigent Software,",skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.909625,naukri,Azure Data Engineer,KPI Partners,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.936862,naukri,Urgent Opening For Data Engineer,Talent21,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.962755,naukri,Data Engineer,Qentelli,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:44.986054,naukri,Data Analyst,LKQ India,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.010067,naukri,Aws Data Engineer,Teamlease Digital Private Limted,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.034670,naukri,Data Engineer,Capgemini,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.059973,naukri,Databricks Engineer,Wipro,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.082734,naukri,GCP Data Engineer - US MNC (analytics),US MNC (analytics),skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.106211,naukri,Senior Qa Engineer,Codincity Digital Technologies,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.134461,naukri,Quality Assurance Engineering Specialist,GE VERNOVA,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.162380,naukri,Lead Data Engineer,Software Company,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.187411,naukri,SDET( Automation Tester ),Orcapod Consulting Services,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.215602,naukri,Senior Data Engineer,Maruti Techlabs,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.246001,naukri,QA Lead,Koireader Technologies,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.271626,naukri,Qa Manual Test Engineer (Payments),Smart Energy Water,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.293963,naukri,SDET || Immediate Joiners,Iris Software,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.319551,naukri,Quality Analyst,ZettaMine Labs,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.343530,naukri,QA Test Engineer (Playwright),BMW Techworks India,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.366331,naukri,Aws Data Engineer,Codeboard Technology,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.389400,naukri,Lead Data Engineer,Shorthills Ai,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.408523,naukri,Software Development Engineer 3,Intelemec,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.430227,naukri,Urgent opening For Automation QA+AI position with Virtusa,Virtusa,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.450352,naukri,Sr Data Engineer (Data Platforms)-1,Mastercard,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:15:45.479313,naukri,QET SDET with AWS,Tata Consultancy Services,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-09 11:09:29.417062,naukri,Data Engineer-FullTime-4+ Years,Tekgence,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-09 11:09:33.551206,naukri,Data Engineer,Evoke HR solution,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:09:37.972822,naukri,Scala Developer,Infosys,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-09 11:09:42.589422,naukri,Data Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-09 11:09:47.041639,naukri,PySpark Data engineer/Analyst- US MNC (analytics),US MNC (analytics),skipped,green-tick mismatch: Key Skills
+2026-10-09 11:10:26.480092,naukri,Data Engineer,Coforge,applied,
+2026-10-09 11:10:37.820199,naukri,Data Engineer,KPI Partners,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 11:10:43.740554,naukri,Data Engineer,Tech Mahindra,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:10:49.723217,naukri,Data Engineer,Virtusa,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 11:10:55.714509,naukri,Data Engineer,3Shool Technology Consultants,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:11:13.009570,naukri,Data Engineer,EPAM Systems,applied,
+2026-10-09 11:11:24.639538,naukri,Azure Data Engineer - Face To Face Round,Ascendion,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:11:30.382776,naukri,AWS Data Engineer,Natobotics Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:11:36.813094,naukri,Data Engineer,Saint Gobain,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:11:43.143819,naukri,Senior Data Engineer,Michael Page,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:11:49.947362,naukri,Data Engineer-Data Platforms-Databricks,IBM,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:11:57.041159,naukri,Lead/ Senior Data Engineer ( Actvie Databricks Certification)_ Exp: 7+,Atyeti,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 11:12:04.222993,naukri,Hadoop Engineer,LTM,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:12:38.818622,naukri,DATA Engineer (JAVA SPARK),Wissen Technology,applied,
+2026-10-09 11:12:50.204953,naukri,EMI / EMC Engineer,Leading Client,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:13:12.485348,naukri,QA Engineer,Quess IT Solutions,applied,
+2026-10-09 11:13:35.575705,naukri,Automation Tester,Capgemini,applied,
+2026-10-09 11:13:57.714940,naukri,Playwright JavaScript Automation Tester,HCLTech,applied,
+2026-10-09 11:14:08.846531,naukri,Walk-in || Python SPARK OR Pyspark,Intellics Global Services,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 11:14:15.029299,naukri,Test Lead,Infinite,skipped,external apply URL not exposed
+2026-10-09 11:14:30.751294,naukri,Automation Playwright,Naukri E-hire,applied,
+2026-10-09 11:14:41.763023,naukri,Quality Engineer - Functional,Bangalore Strategic Solutions,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:14:48.159634,naukri,Specialist - Quality Engineering,LTM,skipped,external apply URL not exposed
+2026-10-09 11:15:21.089658,naukri,SDET Engineer,Metlife,applied,
+2026-10-09 11:15:36.424068,naukri,QA Automation Engineer,Bahwan CyberTek,skipped,external apply URL not exposed
+2026-10-09 11:15:53.618664,naukri,QA Automation Lead,Persistent,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\QA_Automation_Lead_20261009_111553.png
+2026-10-09 11:16:08.376264,naukri,Qa Engineer,Valuelabs,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-09 11:16:27.527737,naukri,Data Specialist,Brillio,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:16:37.433147,naukri,Sr. Data Engineer,Solventum,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 11:16:47.069037,naukri,Senior Automation Engineer,Qualitykiosk Technologies,skipped,green-tick mismatch: Location
+2026-10-09 11:16:57.506810,naukri,Software Test Engineer,Mindpool Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-09 11:17:07.265722,naukri,Azure Dat,Tata Consultancy Services,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-09 11:17:17.674524,naukri,Playwright Automation Engineer (TypeScript) - AI-Assisted Testing,Zensar,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:17:27.430344,naukri,Senior Automation Tester,Hungry Hr,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-09 11:17:38.487980,naukri,Data Engineer,Paramatrix Technologies,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-09 11:17:44.598249,naukri,Data Engineer,Accenture,skipped,Key Skills did not show a green check
+2026-10-09 11:17:50.466070,naukri,Sr Data Engineer,Brillio,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 23:09:19.535148,naukri,Senior Test Automation Engineer,Capgemini,skipped,green-tick mismatch: Key Skills
+2026-10-09 23:09:23.930224,naukri,Senior Validation and Testing Engineer,ZS,skipped,green-tick mismatch: Key Skills
+2026-10-09 23:09:28.139725,naukri,Python Data & Automation Engineer_AWS_ETL_SQL,Crescendo Global,skipped,green-tick mismatch: Key Skills
+2026-10-09 23:09:32.257066,naukri,Data engineer Lead,"Client of IndiHire,",skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-09 23:10:39.689812,naukri,Data Quality Engineer(ETL Testing)Associate/Senior/Lead,Epam Systems,applied,
+2026-10-09 23:10:48.941582,naukri,Data Engineer,firstmeridian,skipped,green-tick mismatch: Key Skills
+2026-10-09 23:10:52.884696,naukri,Playwright automation,Naukri Assist,skipped,green-tick mismatch: Work Experience
+2026-10-09 23:11:03.203769,naukri,Senior Mobile Automation Engineer,Packapill Technologies,skipped,couldn't confirm a manual answer was entered: How many years of experience do you have in APPIUM / Mobile App Testing?
+2026-10-09 23:11:07.223358,naukri,Senior Automation Engineer,Artizent,skipped,green-tick mismatch: Work Experience
+2026-10-09 23:11:11.479636,naukri,Senior Quality Assurance Automation Engineer,Valuelabs,skipped,green-tick mismatch: Work Experience
+2026-10-09 23:11:15.520830,naukri,QA - Senior Engineer,Iris Software,skipped,green-tick mismatch: Work Experience
+2026-10-09 23:11:19.525772,naukri,Data Engineer,Cloudstrats Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-09 23:11:34.190946,naukri,Quality Engineering Delivery 1,Randstad Digital,applied,
+2026-10-09 23:11:52.654068,naukri,AI Data Engineer (Pharma Commercial),Chryselys,skipped,couldn't confirm a manual answer was entered: How many years of experience do you have in Ontology/Semantic Layers
+2026-10-09 23:11:56.790939,naukri,Snowflake Data Engineer,KPI Partners,skipped,green-tick mismatch: Key Skills
+2026-10-09 23:12:00.877827,naukri,Data Engineer (Treasure Data & Python Specialist),Aliqan Services,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 23:12:04.765206,naukri,Automation Engineer,iSpace Software Solutions India Private Limited,skipped,green-tick mismatch: Work Experience
+2026-10-09 23:12:08.720932,naukri,Data Engineer With Java + Spark,Wissen Technology,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-09 23:12:12.734445,naukri,Data Engineer - Big Data / Platform Engineer,Qloron Technology,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 23:12:26.408091,naukri,QA - Automation,Trika Technologies,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-09 23:12:44.959746,naukri,Automation Test Engineer,Panasonic Life Solutions,applied,
+2026-10-09 23:13:01.531825,naukri,Automation Tester (Java selenium + Rest assured),Capgemini,skipped,green-tick mismatch: Work Experience
+2026-10-09 23:13:19.261408,naukri,Qa Automation Testing Engineer,Coforge,applied,
+2026-10-09 23:13:30.241495,naukri,Manual Tester,Capgemini,skipped,green-tick mismatch: Key Skills
+2026-10-09 23:13:36.248508,naukri,Senior SDET Test Engineer,Allegis Group,skipped,green-tick mismatch: Work Experience
+2026-10-09 23:13:56.656794,naukri,QA Test Engineer,Beeu Tech,applied,
+2026-10-09 23:14:07.575157,naukri,QA Automation Engineer,Bahwan CyberTek,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-09 23:14:13.147718,naukri,Sr SDET/QA Engineer,TRC Companies,skipped,green-tick mismatch: Work Experience
+2026-10-09 23:14:24.283696,naukri,"Associate, Quality Assurance",Ares Operations,skipped,green-tick mismatch: Location
+2026-10-09 23:39:00.442589,naukri,HCL Tech- Hiring For Playwright Testing F2F drive Chennai,HCLTech,applied,
+2026-10-09 23:39:11.133123,naukri,Big Data Lead,Hexaware Technologies,skipped,"green-tick mismatch: Early Applicant, Location, Key Skills"
+2026-10-09 23:39:16.746706,naukri,"Senior Quality Engineer I - ROBOT or Python, Selenium",Optum,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 23:39:22.195719,naukri,"Sr. Software Engineer- Data, Telemetry and IOT",Symbiosis Management Consultants,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-09 23:39:27.691105,naukri,QA Automation Engineer - Android / iOS applications,Leading Client,skipped,green-tick mismatch: Location
+2026-10-09 23:39:33.281047,naukri,Databricks admin,Infosys,skipped,green-tick mismatch: Key Skills
+2026-10-09 23:39:38.821346,naukri,Automation Test Lead,Qualitykiosk Technologies,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-09 23:39:44.336198,naukri,Test Lead - Health Insurance,Qualitykiosk Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-09 23:39:49.662665,naukri,Qa Lead,Bridge Global,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-09 23:40:29.157825,naukri,Senior Mobile Automation Engineer,Packapill Technologies,applied,
+2026-10-09 23:41:05.688458,naukri,AI Data Engineer (Pharma Commercial),Chryselys,applied,
+2026-10-10 15:23:22.232438,naukri,Automation Test Engineer-Hyderabad (3 To 5years),Infosys,applied,
+2026-10-10 15:23:57.832141,naukri,QA Engineer II,SigTuple Technologies Private Limited,applied,
+2026-10-10 15:24:07.018988,naukri,AI Test Engineer - Test Lead,Fidelity International,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:24:21.679772,naukri,Senior Test Automation Engineer,REBEL FOODS,applied,
+2026-10-10 15:25:23.462554,naukri,Automation Engineer,Kumaran Systems,applied,
+2026-10-10 15:25:32.866220,naukri,Automation Engineer,Moder Solutions,skipped,green-tick mismatch: Work Experience
+2026-10-10 15:25:50.505345,naukri,"Camera Testing, Python Playwright, Performance testing",Larsen & Toubro (L&T),applied,
+2026-10-10 15:25:59.851595,naukri,technology lead,Infosys,skipped,green-tick mismatch: Early Applicant
+2026-10-10 15:26:16.082446,naukri,power Automate -Testing,Qentelli,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\power_Automate__Testing_20261010_152612.png
+2026-10-10 15:26:48.300413,naukri,"Senior Automation QA (WebdriverIO, Typescript)",R Systems International,applied,
+2026-10-10 15:27:09.885129,naukri,"Sr Engineer-Product Development Testing, 3+ years , Kochi",Talent Bee Consulting Private Limited,applied,
+2026-10-10 15:27:20.428951,naukri,SFDC Testing +Automation Testing-Telecom Domain,O2f Info Solutions,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 15:27:35.073245,naukri,Guidewire Test Automation Engineer,Capgemini,applied,
+2026-10-10 15:27:45.518342,naukri,Quality Assurance Engineer,Tech SMCSquared GCC,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:27:51.879938,naukri,Big Data Engineer (AWS + Scala Mandatory),Coforge,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:27:55.735156,naukri,PySpark Data engineer/Analyst- US MNC (analytics),US MNC (analytics),skipped,green-tick mismatch: Key Skills
+2026-10-10 15:28:12.058647,naukri,Data Engineer,AXA Global Business Services,applied,
+2026-10-10 15:28:21.110970,naukri,Data Engineer-Data Modeling,IBM,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 15:28:47.479806,naukri,Senior Data Engineer,Cybryne It Services And Consulting Private,applied,
+2026-10-10 15:29:08.874867,naukri,Lead AI/ML Engineer - R01572495,Brillio,applied,
+2026-10-10 15:29:19.318554,naukri,Data Engineer,Accenture,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-10 15:29:24.494641,naukri,Sr Soft Engineer - Python Data Engineering- M&A,FactSet,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:29:30.058843,naukri,Databricks Architect + Genie,PwC,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:29:35.952114,naukri,Data Engineer - Financial Analytics (FP&A),Betsol,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:29:39.984518,naukri,AI Platform Engineer and Advocate (Databricks),Svan Global Consultancy,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:29:44.337856,naukri,TTT - QA Automation + AI- Sr,EY,skipped,external apply URL not exposed
+2026-10-10 15:29:48.226668,naukri,SAS +Python Data Engineer -Blackstraw.- Immediate Joiner- WFO- Chennai,Blackstraw Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:30:02.746486,naukri,Databricks & AI Engineer,Tekskills,applied,
+2026-10-10 15:30:28.756955,naukri,Senior Software Engineer,Carelon Global Solutions,applied,
+2026-10-10 15:30:39.645376,naukri,Sr. Expert - Data Engineering,VOLKSWAGEN GROUP DIGITAL SOLUTIONS PRIVATE LIMITED,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:30:43.711164,naukri,QA SW ENGINEER,Extreme Networks,skipped,green-tick mismatch: Early Applicant
+2026-10-10 15:31:00.300911,naukri,Data Engineer,Accion Labs,applied,
+2026-10-10 15:31:20.040776,naukri,Data Engineer,Giggso,applied,
+2026-10-10 15:31:30.812784,naukri,Azure Data Engineer,Cloudaeon,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:31:47.326797,naukri,QA Python,Synechron,applied,
+2026-10-10 15:31:58.408152,naukri,EMI / EMC Engineer,Leading Client,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:32:04.253056,naukri,Data Modeller,Bean Hr Consulting,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:32:26.931580,naukri,Salesforce Automation QA Engineer (CPQ),Dotsolved Systems,applied,
+2026-10-10 15:32:37.826107,naukri,Sr. QA Automation Engineer (Java-Playwright),Relq Technologies,skipped,green-tick mismatch: Work Experience
+2026-10-10 15:32:59.981452,naukri,Test Software engineer,Iron Systems,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:33:31.601676,naukri,Manual Test Engineer,GSR Business Services,applied,
+2026-10-10 15:33:57.235394,naukri,Automation Test Engineer,SmartStream,applied,
+2026-10-10 15:34:22.792253,naukri,API Test Engineer,Capgemini,applied,
+2026-10-10 15:34:47.711457,naukri,"Senior Quality Engineer (Automation - Selenium, Playwright, Cypress)",S&P Global Market Intelligence,applied,
+2026-10-10 15:34:59.157969,naukri,Soft Sr Development Engineer in Test,Barracuda Networks,skipped,external apply URL not exposed
+2026-10-10 15:35:04.897312,naukri,QA Consultant,Pumex Infotech,skipped,green-tick mismatch: Location
+2026-10-10 15:35:10.615930,naukri,Lead I - Software Testing(Playwright),UST,skipped,green-tick mismatch: Location
+2026-10-10 15:35:16.194557,naukri,Specialist - Data Engineering,LTM,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:35:21.801014,naukri,Sr Quality Engineer,LTM,skipped,green-tick mismatch: Location
+2026-10-10 15:35:27.588644,naukri,Test Automation Engineer,Celstream,skipped,green-tick mismatch: Work Experience
+2026-10-10 15:35:33.639427,naukri,Data Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-10 15:35:39.271564,naukri,Palantir Foundry (Data Engineer),Zorba Ai,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:35:44.983464,naukri,Senior Data Scientist,Intellectual Capital HR Consulting,skipped,green-tick mismatch: Location
+2026-10-10 15:35:50.885809,naukri,Sr Engineer (ML + Data Engineering),Key Management Group (KMG),skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-10 15:35:56.491572,naukri,Senior Data Scientist,Intellectual Capital HR Consulting,skipped,green-tick mismatch: Location
+2026-10-10 15:36:01.972401,naukri,Specialist - Quality Engineering,LTM,skipped,green-tick mismatch: Location
+2026-10-10 15:36:07.540549,naukri,Cloud Data Engineer,Nidus Softdev,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-10 15:36:12.985691,naukri,Data Engineer,Axa Xl,skipped,green-tick mismatch: Work Experience
+2026-10-10 15:36:18.677973,naukri,PySpark/Scala Developer,Tata Consultancy Services,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:36:34.819568,naukri,Playwright testing,Capgemini,applied,
+2026-10-10 15:36:45.531423,naukri,Senior QA Engineer,Dodge Global Network,skipped,green-tick mismatch: Location
+2026-10-10 15:36:51.370559,naukri,Senior Data Scientist,Intellectual Capital HR Consulting,skipped,green-tick mismatch: Location
+2026-10-10 15:36:56.896379,naukri,Mobile Test Engineer,REBEL FOODS,skipped,green-tick mismatch: Key Skills
+2026-10-10 15:37:02.518813,naukri,Data Engineer,Accenture,skipped,green-tick mismatch: Early Applicant
+2026-10-10 15:37:18.845887,naukri,Python Automation Engineer,Krazy Bee Services,applied,
+2026-10-10 15:37:29.629995,naukri,Senior Automation Tester,Asian Global Infotech,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-10 15:37:35.253230,naukri,SDET / Engineer,UST,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-10 15:37:41.027554,naukri,C# Automation Tester-Eurofins,Envision Technology Solutions,skipped,green-tick mismatch: Early Applicant
+2026-10-10 16:05:35.546950,naukri,TTT - QA Automation + AI- Sr,EY,skipped,external apply URL not exposed
+2026-10-10 16:05:55.024193,naukri,Soft Sr Development Engineer in Test,Barracuda Networks,skipped,external apply URL not exposed
+2026-10-10 16:06:00.970825,naukri,Data Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-10 16:07:01.468315,naukri,TTT - QA Automation + AI- Sr,EY,skipped,external apply URL not exposed
+2026-10-10 16:07:20.477396,naukri,Soft Sr Development Engineer in Test,Barracuda Networks,skipped,external apply URL not exposed
+2026-10-10 16:07:26.395477,naukri,Data Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-10 23:04:09.769258,naukri,"Data Engineer_Python,SQL,Databricks,AWS",bp,skipped,"unexpected error: Page.wait_for_timeout: Target page, context or browser has been closed"
+2026-10-10 23:04:14.145379,naukri,Senior Data Engineer,Capgemini,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:04:19.096595,naukri,EMI / EMC Engineer,Leading Client,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:04:34.055196,naukri,Data Engineer -3 To 8 years,CONFIDENTIAL,applied,
+2026-10-10 23:04:43.608788,naukri,Python Fullstack Developer,Zensar,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:04:47.872187,naukri,Software Developer - Python / React,Verdeshell Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:04:52.140216,naukri,Azure Data Engineer,NLB,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:05:07.709920,naukri,Python Developer,Ness Digital Engineering,applied,
+2026-10-10 23:05:17.247369,naukri,Azure Data Engineer,Futran Tech Solutions,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:05:22.076872,naukri,"Sr. SW Engineer - SDET - Automation, GenAI tooling, API Testing",Visa Consolidated Support Services India,skipped,external apply URL not exposed
+2026-10-10 23:05:37.087473,naukri,GCP Data Engineer,Leading Client,applied,
+2026-10-10 23:05:46.870163,naukri,Data Scientist,Net Connect,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:05:51.289015,naukri,NI Test Engineers,A2S Technologies,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:05:55.790867,naukri,QA Metrics Reporting Lead,Infovision Labs,skipped,green-tick mismatch: Work Experience
+2026-10-10 23:06:00.408444,naukri,Python Backend Developer + AWS,Wipro,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:06:04.844957,naukri,System Test and Automation Architect,Advanced Micro Devices (AMD),skipped,green-tick mismatch: Key Skills
+2026-10-10 23:06:51.983353,naukri,Senior Data Test Automation Engineer,Alegeus,applied,
+2026-10-10 23:07:01.646504,naukri,C2H- Infosys Mobile Automation,Infosys,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:07:29.957528,naukri,Azure databricks,Innominds Software,applied,
+2026-10-10 23:07:39.850431,naukri,SDET Engineer_Python Automation _Bengaluru_4 Days WFO,Tanisha Systems,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:07:44.087445,naukri,Python Developer,Bounteous,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:07:58.262037,naukri,Automation Selenium + Tosca,Deloitte US-India Offices,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:09:05.478647,naukri,"Automation Test Engineer using Selenium, Java, Playwright & API",Qualitest,skipped,"unexpected error: Page.wait_for_timeout: Target page, context or browser has been closed"
+2026-10-10 23:09:17.351860,naukri,SDET - API Automation (Karate / Appium),Mobikode,skipped,green-tick mismatch: Location
+2026-10-10 23:09:23.150201,naukri,Lead I - Software Testing (Salesforce),UST,skipped,green-tick mismatch: Location
+2026-10-10 23:09:29.087638,naukri,Data Analyst,Quess IT Solutions,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:09:34.784770,naukri,Autoform Engineer,Leading Client,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:09:40.646096,naukri,Automation Test Engineer,IndiaFirst Life,skipped,green-tick mismatch: Location
+2026-10-10 23:09:46.610034,naukri,Sr Soft Engineer I,First American,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:09:52.387337,naukri,SDET - Playwright Professional,Papigen,skipped,green-tick mismatch: Location
+2026-10-10 23:09:58.636375,naukri,Custom Software Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-10 23:10:04.359951,naukri,Senior Mobile test Engineer,Grid Dynamics,skipped,green-tick mismatch: Early Applicant
+2026-10-10 23:10:10.143598,naukri,Sr Soft Test Engineer,Halma,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:10:15.997880,naukri,Salesforce Testing + Automation,Itish Business Solutions,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-10 23:10:21.785019,naukri,Data Analyst,Quess IT Solutions,skipped,green-tick mismatch: Key Skills
+2026-10-10 23:10:44.971070,naukri,"Sr. SW Engineer - SDET - Automation, GenAI tooling, API Testing",Visa Consolidated Support Services India,skipped,external apply URL not exposed
+2026-10-10 23:11:05.411070,naukri,Custom Software Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-10 23:12:16.359397,naukri,"Sr. SW Engineer - SDET - Automation, GenAI tooling, API Testing",Visa Consolidated Support Services India,skipped,external apply URL not exposed
+2026-10-10 23:12:36.984266,naukri,Custom Software Engineer,Accenture,skipped,external apply URL not exposed
+2026-10-10 23:13:17.553448,naukri,Data Engineer,Saint Gobain,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:14:57.704089,naukri,Azure Data Engineer,Cloudaeon,applied,
+2026-10-10 23:15:14.214645,naukri,Senior SDET Test Engineer,Allegis Group,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\Senior_SDET_Test_Engineer_20261010_231513.png
+2026-10-10 23:15:23.575979,naukri,technology lead,Infosys,skipped,job was posted 96 hours ago (limit: 24 hours)
+2026-10-10 23:15:27.853031,naukri,QA Automation,Calsoft,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:15:32.047570,naukri,Qa Engineer,Statusneo Technology Consulting,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:15:36.317500,naukri,Quality Engineer - Functional,Bangalore Strategic Solutions,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:15:51.280552,naukri,Senior Data Engineer,Capgemini,applied,
+2026-10-10 23:16:00.921669,naukri,Data Engineer,Cloudstrats Technologies,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:16:05.417107,naukri,PySpark Data engineer/Analyst- US MNC (analytics),US MNC (analytics),skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:16:09.555352,naukri,Playwright automation,Naukri Assist,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:16:13.782925,naukri,Data Engineer,Tech Mahindra,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:16:17.902840,naukri,Data Engineer,Accenture,skipped,job was posted 120 hours ago (limit: 24 hours)
+2026-10-10 23:16:45.272414,naukri,Automation Engineer,Moder Solutions,applied,
+2026-10-10 23:16:54.763956,naukri,EMI / EMC Engineer,Leading Client,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:16:59.082318,naukri,Azure Data Engineer - Face To Face Round,Ascendion,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:17:17.405248,naukri,Python Fullstack Developer,Zensar,applied,
+2026-10-10 23:17:27.270978,naukri,Data Engineer,Evoke HR solution,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:17:31.615973,naukri,Sr. Expert - Data Engineering,VOLKSWAGEN GROUP DIGITAL SOLUTIONS PRIVATE LIMITED,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:18:35.179177,naukri,SFDC Testing +Automation Testing-Telecom Domain,O2f Info Solutions,applied,
+2026-10-10 23:18:55.485572,naukri,Software Developer - Python / React,Verdeshell Technologies,applied,
+2026-10-10 23:19:16.211193,naukri,Azure Data Engineer,NLB,applied,
+2026-10-10 23:19:26.102539,naukri,AI Test Engineer - Test Lead,Fidelity International,skipped,external apply URL not exposed
+2026-10-10 23:19:30.364724,naukri,Azure Data Engineer,Futran Tech Solutions,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:19:34.678362,naukri,Python Data & Automation Engineer_AWS_ETL_SQL,Crescendo Global,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-10 23:19:39.527676,naukri,"Sr. SW Engineer - SDET - Automation, GenAI tooling, API Testing",Visa Consolidated Support Services India,skipped,external apply URL not exposed
+2026-10-10 23:19:45.157427,naukri,Data Scientist,Net Connect,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:20:00.108713,naukri,Quality Assurance Engineer,Tech SMCSquared GCC,applied,
+2026-10-10 23:20:16.506859,naukri,NI Test Engineers,A2S Technologies,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\NI_Test_Engineers_20261010_232016.png
+2026-10-10 23:20:26.108906,naukri,QA Metrics Reporting Lead,Infovision Labs,skipped,external apply URL not exposed
+2026-10-10 23:20:42.219936,naukri,Python Backend Developer + AWS,Wipro,applied,
+2026-10-10 23:20:51.768889,naukri,System Test and Automation Architect,Advanced Micro Devices (AMD),skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:21:06.719755,naukri,C2H- Infosys Mobile Automation,Infosys,applied,
+2026-10-10 23:21:16.253087,naukri,SDET Engineer_Python Automation _Bengaluru_4 Days WFO,Tanisha Systems,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:21:44.805502,naukri,Python Developer,Bounteous,applied,
+2026-10-10 23:21:54.393450,naukri,Data Engineer,Virtusa,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:21:58.997905,naukri,Data Engineer,Randomtrees,skipped,job was posted 96 hours ago (limit: 24 hours)
+2026-10-10 23:22:03.116917,naukri,Automation Test Engineer,Cyient,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:22:07.757350,naukri,Sr SDET/QA Engineer,TRC Companies,skipped,external apply URL not exposed
+2026-10-10 23:22:11.991429,naukri,Appium Tester,BNP Paribas,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:22:26.096110,naukri,QA - Automation,Trika Technologies,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-10 23:22:44.159940,naukri,Automation Tester (Java selenium + Rest assured),Capgemini,applied,
+2026-10-10 23:22:55.264368,naukri,Qa Engineer,Synechron,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-10 23:23:01.159205,naukri,Qa Automation,EY,skipped,job was posted 336 hours ago (limit: 24 hours)
+2026-10-10 23:23:07.011884,naukri,SDET,Info Edge,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-10 23:23:23.782291,naukri,Automation Selenium + Tosca,Deloitte US-India Offices,applied,
+2026-10-10 23:23:35.630129,naukri,Walk-in || Automation Test Engineer,Epam Systems,skipped,could not verify job posting age
+2026-10-10 23:23:41.291154,naukri,SDET Automation Test Engineer,Bristlecone,skipped,job was posted 96 hours ago (limit: 24 hours)
+2026-10-10 23:23:46.965623,naukri,Quality Engineer Lead,Infosys,skipped,job was posted 120 hours ago (limit: 24 hours)
+2026-10-10 23:23:52.659452,naukri,SDET,Iris Software,skipped,job was posted 96 hours ago (limit: 24 hours)
+2026-10-10 23:23:58.220581,naukri,Qa Engineer,Naukri Assist,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-10 23:24:03.624757,naukri,Test Engineer,VEHERE TECHNOLOGIES PRIVATE LIMITED,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-10 23:24:09.120862,naukri,Qa Engineer,Saisystems Health,skipped,job was posted 504 hours ago (limit: 24 hours)
+2026-10-10 23:24:56.117905,naukri,Manual Tester,Capgemini,applied,
+2026-10-10 23:25:06.765088,naukri,QA/Test Engineers- Automation & Manual Testing,Hatchtra Innotech,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-10 23:25:12.084740,naukri,QA Automation Engineer (Playwright & Selenium),Jade Global,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:25:17.403155,naukri,QA Automation Engineer,Bahwan CyberTek,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-10 23:25:22.671345,naukri,Software Test Engineer,Thoughts2Binary,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:25:28.921249,naukri,Senior Test Automation Engineer,Capgemini,skipped,job was posted 96 hours ago (limit: 24 hours)
+2026-10-10 23:25:34.462818,naukri,Testing with Data ware house,Tech Mahindra,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:25:39.842243,naukri,UFT Automation Tester,HCLTech,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:25:45.428085,naukri,Test Software engineer,Iron Systems,skipped,external apply URL not exposed
+2026-10-10 23:25:56.595742,naukri,SDET - API Automation (Karate / Appium),Mobikode,skipped,external apply URL not exposed
+2026-10-10 23:26:01.945686,naukri,Automation Engineer,Infosys BPM,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:26:18.636202,naukri,Data Engineer,Helio Insights,applied,
+2026-10-10 23:26:39.892875,naukri,Senior QA Engineer,Dodge Global Network,applied,
+2026-10-10 23:26:50.630192,naukri,Lead I - Software Testing (Salesforce),UST,skipped,external apply URL not exposed
+2026-10-10 23:26:56.027683,naukri,Software Test Engineer,Mindpool Technologies,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:27:01.424896,naukri,Data Engineer,Axa Xl,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:27:20.292344,naukri,QA Consultant,Pumex Infotech,applied,
+2026-10-10 23:27:30.915852,naukri,QA Automation Engineer - Android / iOS applications,Leading Client,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:27:36.275533,naukri,Data Engineer,Paramatrix Technologies,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:27:41.789984,naukri,Lead I - Software Testing(Playwright),UST,skipped,external apply URL not exposed
+2026-10-10 23:27:47.109727,naukri,Sr Data Engineer,Brillio,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-10 23:28:03.061658,naukri,Data Analyst,Quess IT Solutions,applied,
+2026-10-10 23:28:23.559347,naukri,Mobile Test Engineer,REBEL FOODS,applied,
+2026-10-10 23:28:44.885622,naukri,Autoform Engineer,Leading Client,applied,
+2026-10-10 23:29:04.447342,naukri,Automation Test Engineer,IndiaFirst Life,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\shakthi\debug_screenshots\Automation_Test_Engineer_20261010_232904.png
+2026-10-10 23:29:09.469408,naukri,Senior Automation Tester,Hungry Hr,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.484629,naukri,Sr Soft Engineer I,First American,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.499594,naukri,SDET - Playwright Professional,Papigen,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.517684,naukri,Custom Software Engineer,Accenture,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.532252,naukri,Senior Mobile test Engineer,Grid Dynamics,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.545795,naukri,Sr Soft Test Engineer,Halma,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.559678,naukri,Salesforce Testing + Automation,Itish Business Solutions,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.574969,naukri,Senior Automation Tester,Asian Global Infotech,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.588885,naukri,Senior Data Scientist,Intellectual Capital HR Consulting,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.607681,naukri,Cloud Data Engineer,Nidus Softdev,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.622245,naukri,Playwright automation 2- 3 yrs,Infosys,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-10 23:29:09.637445,naukri,Data Analyst,Quess IT Solutions,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"

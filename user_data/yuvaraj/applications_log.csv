@@ -1,0 +1,439 @@
+timestamp,source,title,company,status,reason
+2026-10-08 16:12:54.499549,naukri,Java Full Stack Developer,Infosys,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:13:09.464771,naukri,Java Full Stack Developer,Coforge,applied,
+2026-10-08 16:13:19.118394,naukri,Java React Senior Developer,Infosys,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:13:33.902192,naukri,Java Developer -2 To 7 years,CONFIDENTIAL,applied,
+2026-10-08 16:13:50.307277,naukri,Java Full Stack Dev(Angular) For Banking-Domain-Product Based Co.Pune,A Client of Seventh Contact Hiring Solutions,uncertain,couldn't confirm submission -- screenshot saved to debug_screenshots\Java_Full_Stack_Dev_Angular__For_Banking_Domain_Product_Base_20261008_161350.png
+2026-10-08 16:14:10.548067,naukri,Software Engineer 1- Fullstack,Rakuten,applied,
+2026-10-08 16:14:20.199043,naukri,Senior Software Engineer,TEKsystems,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:14:24.445743,naukri,Fullstack Developer,LatentView,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:14:28.740319,naukri,Java Developer,Atos,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:14:33.112460,naukri,Java Full Stack Developer,Spanidea,skipped,no apply button found
+2026-10-08 16:15:21.832935,naukri,Java Full Stack Developer,Naukri Assist,applied,
+2026-10-08 16:15:31.365146,naukri,Software Engineer 2,Purplle.com,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 16:15:35.777606,naukri,We are hiring For Fullstack Developer,Euclid Innovations,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 16:15:40.027361,naukri,"Senior Java Backend Engineer (SpringBoot, ReactJS)",Virtusa,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:15:44.267677,naukri,Java Back End Developer,Tech Mahindra,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:15:48.444248,naukri,Software Developer,UCH Logistics,skipped,green-tick mismatch: Location
+2026-10-08 16:15:52.848285,naukri,"Software Specialist (Nest Js, Typescript)",PTC,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 16:15:57.097444,naukri,Java Back End Developer,Wipro,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:16:01.615554,naukri,Software Engineer,NetApp,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 16:16:06.210655,naukri,Software-Java Developer,Creative Hands HR,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:16:10.618870,naukri,Senior Technology Specialist,Sapient (publicissapient),skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:16:25.534267,naukri,Java Developer,BT Group,applied,
+2026-10-08 16:16:46.087429,naukri,Java Full Stack Developer,Grid Dynamics,applied,
+2026-10-08 16:16:55.570607,naukri,Java Full Stack Developer,Talentica,skipped,Key Skills did not show a green check
+2026-10-08 16:16:59.764123,naukri,Senior Software Engineer,Cvent,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:17:14.686948,naukri,Back End Developer,iBridge Techsoft,applied,
+2026-10-08 16:17:24.156056,naukri,Senior Java Developer,Luxoft,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:17:39.038705,naukri,Java Full Stack Developer (React.js),Infinite,applied,
+2026-10-08 16:17:48.576091,naukri,Frontend Engineer,Olx,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 16:17:52.777598,naukri,Senior Java Developer with Kafka,Cognizant,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:17:57.037282,naukri,Java Back End Developer,LTM,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:18:12.041642,naukri,Urgent Hiring Java with React Developer,Flywings ENTERPRISES,applied,
+2026-10-08 16:18:21.437153,naukri,Java Developer,Wissen Technology,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:18:25.583422,naukri,Software Engineer,Hackajob,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:18:29.888777,naukri,Cloud Software Engineer (Java Full Stack),Airties,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:18:36.291989,naukri,Java Back End Developer,First Meridian Business Services,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:18:40.619319,naukri,Java Developer,Cognizant,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:18:44.888831,naukri,Full Stack Developer,Thales,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:18:49.395426,naukri,Java Developer with AWS,Capgemini,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:20:19.027325,naukri,Senior Backend Engineer - AI Platform,Scalifi Ai Llp,applied,
+2026-10-08 16:20:28.784648,naukri,Data Scientist,Capgemini,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 16:20:33.191558,naukri,Sr Associate - AI Engineer (PEG Alpha),Bain,skipped,external apply URL not exposed
+2026-10-08 16:20:37.486946,naukri,Full Stack Engineer ( React.js + Agentic AI+Node.js),Altisource,skipped,"green-tick mismatch: Location, Key Skills"
+2026-10-08 16:20:41.909277,naukri,Java Based Core Banking Application Product Support Engineer,Global It Family,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 16:20:46.146938,naukri,Fullstack Software Developer,Bahwan CyberTek,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:20:50.439633,naukri,Java Developer,IBM,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:20:54.849714,naukri,Senior Java Spring Boot Engineer - GCP Vertex AI Healthcare,ZettaMine Labs,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:20:59.013886,naukri,Java Full Stack Developer,Synechron,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:21:03.257069,naukri,Senior Java developer,Grid Dynamics,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:21:07.451135,naukri,Developer,Tata Technologies,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:21:11.756975,naukri,Senior Software Engineer,HMH Technology Private Limited,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:21:15.950969,naukri,React JS and Node JS Developer,Data Software Research Company (DSRC),skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 16:21:20.364243,naukri,Node Js Developer,Teksystems,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 16:21:35.229479,naukri,Software Engineer 3,Mongodb,applied,
+2026-10-08 16:21:44.722817,naukri,Java Fullstack - Bangalore,Consulting Firm,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 16:21:48.876693,naukri,Senior Software Engineer,Tekion,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:22:03.868005,naukri,Java Backend Developer-S,Infosys,applied,
+2026-10-08 16:22:13.521962,naukri,Java Full Stack Developer -5 To 9yrs-Bangalore,CGI,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-08 16:22:30.621610,naukri,Java Full Stack Developer with Angular,Quess IT Solutions,applied,
+2026-10-08 16:22:40.139112,naukri,Fullstack Software Engineer,.,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:22:44.382937,naukri,Java developer,Filuet,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:22:48.744266,naukri,Java Full Stack Developer,IXceed Solutions,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:22:53.166341,naukri,Java Developer / Lead,Hexaware Technologies,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:23:03.361304,naukri,Java Back End Developer+ MQ,Tech Mahindra,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:23:09.301245,naukri,Software Engineer,Coforge,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:23:25.735594,naukri,Java Full Stack Developer,LTM,applied,
+2026-10-08 16:23:36.619031,naukri,"Java, Springboot, Microservices, AWS, SQL (Kafka Nice To have)",Virtusa,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:23:42.320370,naukri,Software Engineer (Java + Kafka),Capgemini,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:23:48.126144,naukri,Java Full Stack Developer,Deloitte Shared Services India,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 16:23:54.210511,naukri,Java Backend Developer - 4 To 10 years,CONFIDENTIAL,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:24:00.153304,naukri,Senior Java Software Engineer,Luxoft,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:24:05.813076,naukri,Java Developer,Amantya Technologies,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:24:11.671033,naukri,Java Developer DevOps,Client of IndiHire,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:24:28.024290,naukri,Senior Java Developer,Persistent,applied,
+2026-10-08 16:24:39.249595,naukri,Senior Java Software Engineer,Virtusa,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:24:44.973025,naukri,BackEnd Developer,Kindle Hr,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:24:50.881841,naukri,Software developer - AI Orchestration,Seeburger,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:24:56.625012,naukri,Senior Java Developer (Backend),Luminary Digital,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:25:02.336021,naukri,Software Engineer- Kafka,Quest Global,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:25:08.200953,naukri,Java Backend,Naukri Assist,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 16:25:13.930120,naukri,"Java Spring Boot, microservices Developer-s",Infosys,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:25:19.639756,naukri,Java Developer,IPS group,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:25:25.388557,naukri,"Technical Lead, Java, SaaS Platform Engineering",Avexa Systems Hyderabad,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:25:31.355314,naukri,Sr Software Engineer,Apple,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:25:37.107600,naukri,Senior Software Engineer II (Backend),Makemytrip,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:25:42.913150,naukri,Java Developer,TEKsystems,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:25:48.744256,naukri,Java - Senior Engineer,Iris Software,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:26:10.253542,naukri,Software Development Engineer 2,Bahwan CyberTek,applied,
+2026-10-08 16:26:21.725183,naukri,Java React Developer,Synechron,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:26:27.542653,naukri,Senior Software Engineer,INTECH Creative Services Pvt. Ltd.,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-08 16:26:33.603764,naukri,Java Developer,Talent Corner HR Services,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:26:39.640118,naukri,Backend Solution Engineer - SDE II,eka.care,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 16:26:45.534354,naukri,Software Engineer | Upto 20LPA | Chennai,HR Brinda - 9687676595,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:26:51.246059,naukri,Java Developer (mid-level),Techmojo Solutions,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:26:57.244014,naukri,Java Spring Boot Developer,Quess IT Solutions,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:27:03.007436,naukri,Software Engineer Java and Microservices,Taggd,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:27:08.896905,naukri,Java Duck Data base,ALIQAN Technologies,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:27:25.673299,naukri,Java Developer( Core Java ),Embarkgcc Services,applied,
+2026-10-08 16:27:36.688694,naukri,Senior AI-Enabled Java Platform Engineer,Mphasis,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:27:42.418097,naukri,SDE - 2 - Backend at A FinTech Company,Talentzo Delhi,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:27:48.168944,naukri,Java - Senior Engineer,Iris Software,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:27:53.883206,naukri,Walk-in || Java Full Stack Developer,Cognizant,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:27:59.798979,naukri,Senior Backend Engineer,Backbase,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:28:05.668314,naukri,Java Developer,Barclays,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:28:11.507022,naukri,Java Full Stack Developer,ACS Consultants,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:28:25.305452,naukri,Java Developer,Tata Consultancy Services,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:28:31.174918,naukri,Java Developer,Infosys,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:28:37.022848,naukri,Java Full Stack Developer,Cognizant,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:28:42.817733,naukri,Java Full Stack Developer,Tech Mahindra,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:28:48.638597,naukri,Java Full Stack Developer,Virtusa,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:28:54.577733,naukri,Core Java Backend Developer,Virtusa,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:29:00.542737,naukri,"Full stack Developer / AI developer (java , angular , spring boot)",NetApp,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:29:06.235909,naukri,Java Full Stack Developer,EY,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:29:12.244532,naukri,Java Full Stack Developer,Mphasis,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:29:18.167220,naukri,Java Developer,Tekskills india pvt ltd,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:29:23.910711,naukri,Java Fullstack Developer with Angular,Capgemini,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-08 16:29:29.548270,naukri,Java Angular Developer,Synechron,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:29:35.195429,naukri,Java Developer,Talentbridge,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:29:41.207946,naukri,Java Developer,Netweb Software,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:29:46.974966,naukri,Java Developer,Techmojo Solutions,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:29:52.680674,naukri,"Angular, Java, Spring Boot",Quess IT Solutions,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:29:58.615435,naukri,Java Full Stack Developer - Java + Angular,Epam Systems,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:30:04.434233,naukri,Senior Java Developer,Luxoft,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:30:10.318980,naukri,Java Full Stack Developer,Iris Software,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:30:16.131992,naukri,Java Fullstack Developer,CIEL HR,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:30:22.291484,naukri,Java Full Stack Developer,AD It Robotics,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 16:30:28.190321,naukri,Java Developer - (J2EE & Java Servlets) - 5+yrs - Remote Work,Maantic Global It Solutions,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:30:34.062143,naukri,Java Full Stack Developer,Elabs Infotech,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-08 16:30:39.835450,naukri,Java Full stack Developer,TQUANTA Technologies,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 16:30:45.666379,naukri,Java Fullstack Lead Developer,HR SOLUTIONS,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:30:51.675975,naukri,Java Full Stack Developer,Acentra Health,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 16:30:57.347149,naukri,Sr. Java Developer,Q1 Technologies,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:31:03.230161,naukri,Java Developer,Naukri E Hire Campaign,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 16:31:09.374663,naukri,Java Full Stack,Peoplefy Infosolutions,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:31:15.034398,naukri,Java Full Stack Developer,Synoris Information System Pvt Ltd,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:31:21.032835,naukri,Java Full Stack Developer,Infosys,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:31:26.754194,naukri,"Java, Angular, microservices, spring boot Professional",PSRTEK,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:31:32.499519,naukri,Java Full Stack Developer,Sonata Software,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:31:43.968470,naukri,Java Back End Developer-Chennai - Immediate Joiners,Innova Solutions,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:31:49.855693,naukri,Senior Software Engineer - Java Full Stack - React,CGI,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 16:32:06.334207,naukri,Senior Software Engineer,Armakuni,applied,
+2026-10-08 16:32:17.369446,naukri,Senior Java Developer,FYN Tune Solution,skipped,green-tick mismatch: Location
+2026-10-08 16:32:23.301533,naukri,Java Back End Developer,Tekskills,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-08 16:32:29.438195,naukri,Regular Java Developer,Luxoft,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:32:35.271768,naukri,Java Back End Developer,Seacross Recruitment Services,skipped,green-tick mismatch: Location
+2026-10-08 16:32:40.978794,naukri,Java Developer with DevOps/Infrastructure,Luxoft,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:32:47.035794,naukri,Walkin drive For Software Engineer -Vanguard India(GCC) on 7th October,Vanguard,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:33:08.534190,naukri,Java Springboot (3-10),Infosys,applied,
+2026-10-08 16:33:19.424514,naukri,Java,HCLTech,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:33:25.264936,naukri,Software Engineer,Cirruslabs,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:33:31.286300,naukri,Java with KAFKA Backend Developer,Capgemini,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:33:37.022089,naukri,Full Stack Developer / Senior Full Stack Developer,Sowiz,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:33:43.002724,naukri,Java React,CGI,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:33:48.890865,naukri,Java Full Stack Developer,HCLTech,skipped,"green-tick mismatch: Early Applicant, Location"
+2026-10-08 16:34:41.515453,naukri,NBBL - Java Developer,National Payments Corporation of India (NPCI),applied,
+2026-10-08 16:34:52.821177,naukri,Java Developer ( java+ Kafka skill),Capgemini,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:34:58.860695,naukri,Opening For - Java with Azure,India's Largest IT Service Provider,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-08 16:35:04.771773,naukri,NTS Developer Secure Coding JAVA,Green Leaf Consultants Kolkata,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 16:35:10.534429,naukri,Senior Backend Developer-NBFC,Attarix Talent Solutions Mumbai,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-08 16:35:17.103998,naukri,Sr Developer,Sonata Software,skipped,Key Skills did not show a green check
+2026-10-08 16:35:23.033076,naukri,Java Back End Developer,LTIMindtree,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:35:29.043225,naukri,Full Stack Developer,Tenacious Hr Solution,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 16:35:34.999602,naukri,Java Back End Developer,Cognizant,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-08 16:35:40.806800,naukri,Java Full Stack Developer,Zenith Consultants Software,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 16:35:46.697258,naukri,Backend Developer - Blockchain,C3i Hub,skipped,"green-tick mismatch: Early Applicant, Location, Key Skills"
+2026-10-08 16:36:05.146526,naukri,Java Developer,EdgeVerve Systems,applied,
+2026-10-08 16:36:16.460345,naukri,Java Backend Lead _Microservices (Spring Boot + Azure),Tarento Technologies,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-08 16:36:22.249552,naukri,Application Support Engineer (JAVA + AWS),Bridgestone - Global Capability Center,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:36:28.062749,naukri,Java springboot and Microservices,Tata Consultancy Services,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:36:33.721931,naukri,Software Engineer/Sr Software Engineer- DataScience,Livecareer,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 16:36:40.026322,naukri,Payment Engineer,Symbiosis Management Consultants,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-08 16:36:45.931695,naukri,Front End Developer (Ext.js & React.js),Interface Infosoft,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:36:51.778884,naukri,Senior Java Developer,Siro Clinpharm,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:36:57.947232,naukri,Java Developer,Tekskills india pvt ltd,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:37:04.025531,naukri,Java Full Stack Developer,Zenith Consultants Software,skipped,Key Skills did not show a green check
+2026-10-08 16:37:09.801466,naukri,Java Full Stack Developer,PERSOL,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:37:15.534541,naukri,Microservices & API Developer,Techcarrot Fz-llc,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-08 16:37:21.472193,naukri,Dot Net Developer,Amantya Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:37:27.334141,naukri,"Sr Associate Application Development, NBBL",National Payments Corporation of India (NPCI),skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:37:33.243010,naukri,Java Full Stack Developer (6-10),Infosys,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:37:39.131437,naukri,Walk-in || Java Developer,GIST Management Solutions,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-08 16:37:45.110927,naukri,Fullstack Developer,Bain,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:37:51.079655,naukri,Senior Java Developer | Bangalore | CMSS,Cyber Managers Software Services,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:37:57.014718,naukri,.Net Developer (Backend),Amantya Technologies,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:38:03.041095,naukri,Core-Platform Software Engineer,Viasat,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:38:09.022733,naukri,Senior Backend Developer,Aivar Innovations,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-08 16:38:14.944054,naukri,Liferay Consultant,Dhanyaayai,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 16:38:20.988233,naukri,Java FSD Lead _ Mumbai @ Fulltime role,Techouts,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-08 16:38:26.902807,naukri,"Lead Software Engineer Lead Software engineer - Java, Spring Boot",JPMorgan Chase Bank,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:38:32.952212,naukri,Java Developer,The Glove,skipped,green-tick mismatch: Early Applicant
+2026-10-08 16:38:38.915157,naukri,Sr Backend Software Engineer,Atlassian,skipped,"green-tick mismatch: Early Applicant, Location, Work Experience"
+2026-10-08 16:38:44.923195,naukri,Kafka Developer,Giniminds,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:38:50.580777,naukri,Java with Autosys Developer,Global It Family,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 16:38:56.506888,naukri,Senior Software Engineer,Phenom People,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:39:02.544484,naukri,APIC Developer,Independent Recruitment Consultant (freelancer),skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-08 16:39:08.601776,naukri,Senior Java Fullstack Developer,Jindal Steel Limited,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:41:14.508240,naukri,Full Stack Developer,ElevenX Capital,skipped,"unexpected error: Page.wait_for_timeout: Target page, context or browser has been closed"
+2026-10-08 16:41:20.584872,naukri,"InP - Software Engineer Senior (Core Java 11+, REST API, Angular)",FIS,skipped,green-tick mismatch: Work Experience
+2026-10-08 16:41:26.527199,naukri,Specialist - Software Engineer (API Developer / Platform Engineering),Nationwide Insurance,skipped,green-tick mismatch: Key Skills
+2026-10-08 16:41:32.637043,naukri,Java Full Stack Lead,Envision Technology Solutions,skipped,external apply URL not exposed
+2026-10-08 16:41:38.340462,naukri,Walk-in || Java Developer,kk Software Associates,skipped,green-tick mismatch: Location
+2026-10-08 16:41:44.225440,naukri,Java Full Stack Developer,Kaizen SRA Technologies,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 16:41:49.985861,naukri,Senior Backend Engineer - Speech Platform,Rezo,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 18:09:04.575578,naukri,Java Full Stack Developer,Spanidea,skipped,no apply button found
+2026-10-08 18:09:08.513826,naukri,Sr Associate - AI Engineer (PEG Alpha),Bain,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 18:09:24.895749,naukri,Walk-in || Java Full Stack Developer,Buzzworks Business Services,skipped,green-tick mismatch: Work Experience
+2026-10-08 18:09:35.713507,naukri,Java developer with AWS,Dreeves,skipped,Key Skills did not show a green check
+2026-10-08 18:10:11.613220,naukri,Full Stack Developer,ElevenX Capital,applied,
+2026-10-08 18:10:23.180530,naukri,Java Full Stack Lead,Envision Technology Solutions,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:16:15.084772,naukri,Java Full Stack Developer,Spanidea,skipped,no apply button found
+2026-10-08 23:16:31.566029,naukri,Java Full Stack Developer - 3 To 7 years,CONFIDENTIAL,applied,
+2026-10-08 23:16:42.689026,naukri,Software Engineer,Myraid,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:16:48.883521,naukri,Lead I - Software Engineering,UST,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 23:16:54.899799,naukri,Senior Software Engineer,Rakuten,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:17:00.625040,naukri,Java Developer with AWS,Iris Software,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:17:17.249921,naukri,Software Engineer,Allstate India Private Limited,applied,
+2026-10-08 23:17:28.396232,naukri,Java Springboot Microservices Consultant,Infosys,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:17:34.316476,naukri,Java Fullstack Developer (Java + Angular),Capgemini,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:17:40.132740,naukri,Java Full Stack Developer(React or Angular) - Deloitte,Embarkgcc Services,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:17:46.271296,naukri,Backend Engineer Platform- Bangalore,Shanvi Staffing Services,skipped,Key Skills did not show a green check
+2026-10-08 23:17:52.409754,naukri,Back End Developer,Recruito,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:17:58.008268,naukri,SDET,Vikruthi Technologies,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:18:03.653106,naukri,Lead Engineer - Airtel,Airtel,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:18:09.404744,naukri,F2F Interview -Java Fullstack with GCP- Chennai-Ascendion-Client(Ford),Ascendion Engineering,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 23:18:27.409545,naukri,Sr. Consultant / Consultant - Full Stack & Cloud (React & Spring Boot),Our Client,applied,
+2026-10-08 23:18:49.270687,naukri,Software Engineer,A.P. Moller Maersk,applied,
+2026-10-08 23:19:00.182570,naukri,Model Context Protocol Developer,Aliqan Services,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:19:05.911566,naukri,Software Engineer,Hackajob,skipped,green-tick mismatch: Early Applicant
+2026-10-08 23:19:11.974602,naukri,Sr Engineer 1,JCPenney,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 23:19:17.792384,naukri,Senior Software Engineer,Druva,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:19:34.362516,naukri,Hiring | AI Engineer | StatusNeo,Statusneo Technology Consulting,applied,
+2026-10-08 23:19:45.456436,naukri,Lead Developer,Virtusa,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:20:06.111176,naukri,Senior Software Engineer - JAVA,Client of Sampoorna Consultants Pvt. Ltd,applied,
+2026-10-08 23:20:15.834529,naukri,Java AI Engineer-SDLC Modernization,Sonata Software,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:20:30.634293,naukri,Tracxn - Backend Developer,Tracxn,applied,
+2026-10-08 23:21:00.784952,naukri,Java Developer,HR SOLUTIONS,applied,
+2026-10-08 23:21:10.326953,naukri,Java Developer,TQUANTA Technologies,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:21:22.312128,naukri,Core Java Developer,Persistent,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:21:28.188415,naukri,Java Full Stack Developer,First Meridian Business Services,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:21:33.964792,naukri,Java Full Stack Developer,Hatchtra Innotech,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 23:21:45.378972,naukri,Java Back End Developer_ 2 To 5 years,Kiya.ai,skipped,could not verify job posting age
+2026-10-08 23:21:51.291747,naukri,Java Developer,Clover Infotech,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-08 23:21:57.049130,naukri,MODULE LEAD - Java,Happiest Minds Technologies,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 23:22:03.160515,naukri,Java Developer,Tekskills,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-08 23:22:09.018237,naukri,Fullstack Developer,Deloitte US-India Offices,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:22:14.909231,naukri,Kafka Architect,Envision Technology Solutions,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:22:20.598497,naukri,JAVA full stack development (WFO) (Flexible Shift),Multinational Company,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:22:26.492626,naukri,Senior Software Developer,Mawai Infotech,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:22:32.121489,naukri,Technical Java Developer required in Germany without IELTS,Radvision World Consultancy,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-08 23:22:37.990346,naukri,Java Full Stack Developer,ADP Private Limited,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:22:44.131394,naukri,Java Full Stack Developer (Java + Angular),Randstad Digital,skipped,green-tick mismatch: Work Experience
+2026-10-08 23:22:49.910629,naukri,Software Development Engineer - Java/Go + Distributed Systems,Zscaler Softech,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-08 23:22:55.827538,naukri,Apigee,Tecnoprism,skipped,green-tick mismatch: Key Skills
+2026-10-08 23:23:01.729139,naukri,Walk-in || Java Full Stack Developer,Neurealm,skipped,no apply button found
+2026-10-08 23:23:07.568940,naukri,Software Engineer III,Elsevier,skipped,"green-tick mismatch: Early Applicant, Key Skills"
+2026-10-08 23:23:13.611935,naukri,Labvantage Developer,Envision Technology Solutions,skipped,"green-tick mismatch: Early Applicant, Location"
+2026-10-08 23:23:19.554973,naukri,Application Engineer - III (Java),Vanguard,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-08 23:25:24.905516,naukri,Java Full Stack Developer,Infosys,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:25:30.492080,naukri,Java React Senior Developer,Infosys,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:25:35.826627,naukri,Java Full Stack Developer,Spanidea,skipped,no apply button found
+2026-10-08 23:25:41.224303,naukri,Java Back End Developer,Tech Mahindra,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:25:53.610463,naukri,Java Developer,IPS group,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\yuvaraj\debug_screenshots\Java_Developer_20261008_232553.png
+2026-10-08 23:26:04.041623,naukri,Software Engineer,Myraid,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:26:09.439769,naukri,Senior Software Engineer,TEKsystems,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:26:15.126053,naukri,Lead I - Software Engineering,UST,skipped,external apply URL not exposed
+2026-10-08 23:26:20.485509,naukri,Java Developer,Wissen Technology,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:26:36.485765,naukri,Senior Software Engineer,Rakuten,applied,
+2026-10-08 23:26:47.375053,naukri,Java Full Stack Developer,Talentica,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:27:01.798505,naukri,Fullstack Software Developer,Bahwan CyberTek,applied,
+2026-10-08 23:27:12.314803,naukri,Software Engineer,NetApp,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:27:17.637978,naukri,Java Back End Developer,LTM,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:27:38.033278,naukri,Java Developer with AWS,Iris Software,applied,
+2026-10-08 23:27:59.218992,naukri,Java Full Stack Developer,Synechron,applied,
+2026-10-08 23:28:09.667359,naukri,Java Springboot Microservices Consultant,Infosys,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:28:25.756858,naukri,Java Fullstack Developer (Java + Angular),Capgemini,applied,
+2026-10-08 23:28:36.237610,naukri,Backend Solution Engineer - SDE II,eka.care,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:28:41.569980,naukri,Senior Java Developer,Luxoft,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:28:57.566819,naukri,SDE - 2 - Backend at A FinTech Company,Talentzo Delhi,applied,
+2026-10-08 23:29:41.061558,naukri,Java Full Stack Developer(React or Angular) - Deloitte,Embarkgcc Services,applied,
+2026-10-08 23:30:25.278211,naukri,Backend Engineer Platform- Bangalore,Shanvi Staffing Services,applied,
+2026-10-08 23:30:35.815256,naukri,Senior Software Engineer,HMH Technology Private Limited,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:30:51.893216,naukri,Back End Developer,Recruito,applied,
+2026-10-08 23:31:13.063127,naukri,SDET,Vikruthi Technologies,applied,
+2026-10-08 23:31:35.404752,naukri,Java Developer DevOps,Client of IndiHire,applied,
+2026-10-08 23:31:56.493535,naukri,Lead Engineer - Airtel,Airtel,applied,
+2026-10-08 23:32:17.993300,naukri,F2F Interview -Java Fullstack with GCP- Chennai-Ascendion-Client(Ford),Ascendion Engineering,applied,
+2026-10-08 23:32:50.019067,naukri,Model Context Protocol Developer,Aliqan Services,applied,
+2026-10-08 23:33:00.589316,naukri,Software Engineer,Hackajob,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:33:05.950543,naukri,Sr Engineer 1,JCPenney,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:33:11.657430,naukri,Java Developer,Atos,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:33:17.080436,naukri,Software Developer,UCH Logistics,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:33:22.421227,naukri,Java Fullstack - Bangalore,Consulting Firm,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:33:27.733716,naukri,We are hiring For Fullstack Developer,Euclid Innovations,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:33:55.198446,naukri,Senior Java Spring Boot Engineer - GCP Vertex AI Healthcare,ZettaMine Labs,applied,
+2026-10-08 23:34:05.638591,naukri,Fullstack Developer,LatentView,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:34:11.097557,naukri,Senior Software Engineer,Druva,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:34:16.379445,naukri,Cloud Software Engineer (Java Full Stack),Airties,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:34:32.354613,naukri,Lead Developer,Virtusa,applied,
+2026-10-08 23:34:46.767177,naukri,Software Engineer,Coforge,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:35:03.704038,naukri,"Java, Springboot, Microservices, AWS, SQL (Kafka Nice To have)",Virtusa,applied,
+2026-10-08 23:35:13.007199,naukri,Java developer,Filuet,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:35:16.843361,naukri,Software Engineer (Java + Kafka),Capgemini,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:35:20.753471,naukri,Developer,Tata Technologies,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:35:24.662747,naukri,Java Full Stack Developer,Deloitte Shared Services India,skipped,job was posted 120 hours ago (limit: 24 hours)
+2026-10-08 23:35:39.111170,naukri,Java Backend Developer - 4 To 10 years,CONFIDENTIAL,applied,
+2026-10-08 23:35:48.253710,naukri,Senior Java Software Engineer,Luxoft,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:35:52.287539,naukri,Java Developer,Amantya Technologies,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:35:58.269894,naukri,Senior Java Software Engineer,Virtusa,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:36:02.531435,naukri,BackEnd Developer,Kindle Hr,skipped,job was posted 120 hours ago (limit: 24 hours)
+2026-10-08 23:36:06.588213,naukri,Software developer - AI Orchestration,Seeburger,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:36:10.533645,naukri,Senior Java Developer (Backend),Luminary Digital,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:36:14.440747,naukri,Software Engineer- Kafka,Quest Global,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:36:18.342990,naukri,Java Backend,Naukri Assist,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:36:22.538540,naukri,"Java Spring Boot, microservices Developer-s",Infosys,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:36:26.464255,naukri,Java Back End Developer,First Meridian Business Services,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:36:40.371731,naukri,"Technical Lead, Java, SaaS Platform Engineering",Avexa Systems Hyderabad,applied,
+2026-10-08 23:37:10.680560,naukri,Java AI Engineer-SDLC Modernization,Sonata Software,applied,
+2026-10-08 23:37:19.745275,naukri,Sr Software Engineer,Apple,skipped,job was posted 336 hours ago (limit: 24 hours)
+2026-10-08 23:37:34.357270,naukri,Java Developer,TEKsystems,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\yuvaraj\debug_screenshots\Java_Developer_20261008_233734.png
+2026-10-08 23:37:43.691403,naukri,Senior Software Engineer II (Backend),Makemytrip,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:37:47.581138,naukri,Java - Senior Engineer,Iris Software,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:37:51.503265,naukri,Java React Developer,Synechron,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:37:55.413982,naukri,Senior Software Engineer,INTECH Creative Services Pvt. Ltd.,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:37:59.621045,naukri,Java Developer,Talent Corner HR Services,skipped,job was posted 120 hours ago (limit: 24 hours)
+2026-10-08 23:38:14.305882,naukri,Software Engineer | Upto 20LPA | Chennai,HR Brinda - 9687676595,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\yuvaraj\debug_screenshots\Software_Engineer___Upto_20LPA___Chennai_20261008_233814.png
+2026-10-08 23:38:23.256198,naukri,Java Developer (mid-level),Techmojo Solutions,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:38:37.883990,naukri,Java Spring Boot Developer,Quess IT Solutions,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\yuvaraj\debug_screenshots\Java_Spring_Boot_Developer_20261008_233837.png
+2026-10-08 23:38:46.899747,naukri,Java Developer / Lead,Hexaware Technologies,skipped,job was posted 120 hours ago (limit: 24 hours)
+2026-10-08 23:38:50.897701,naukri,Software Engineer Java and Microservices,Taggd,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:38:54.734238,naukri,Java Duck Data base,ALIQAN Technologies,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:38:58.722580,naukri,Senior AI-Enabled Java Platform Engineer,Mphasis,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:39:03.013838,naukri,Java Back End Developer,Wipro,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:39:17.726790,naukri,Java - Senior Engineer,Iris Software,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\yuvaraj\debug_screenshots\Java___Senior_Engineer_20261008_233917.png
+2026-10-08 23:39:27.028267,naukri,Senior Backend Engineer,Backbase,skipped,job was posted 336 hours ago (limit: 24 hours)
+2026-10-08 23:39:31.190065,naukri,Java Developer,Barclays,skipped,external apply URL not exposed
+2026-10-08 23:39:35.087889,naukri,Java Full Stack Developer,ACS Consultants,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:39:49.648546,naukri,Java Developer,TQUANTA Technologies,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\yuvaraj\debug_screenshots\Java_Developer_20261008_233949.png
+2026-10-08 23:40:06.253340,naukri,Java Developer,Tata Consultancy Services,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:40:11.535890,naukri,Java Developer,Infosys,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:40:16.874132,naukri,Java Full Stack Developer,Cognizant,skipped,job was posted 120 hours ago (limit: 24 hours)
+2026-10-08 23:40:32.883029,naukri,Java Full Stack Developer,Virtusa,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\yuvaraj\debug_screenshots\Java_Full_Stack_Developer_20261008_234032.png
+2026-10-08 23:40:43.460452,naukri,Core Java Backend Developer,Virtusa,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:40:48.803944,naukri,"Full stack Developer / AI developer (java , angular , spring boot)",NetApp,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:40:54.164839,naukri,Java Full Stack Developer,EY,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:40:59.780814,naukri,Java Full Stack Developer,Mphasis,skipped,job was posted 72 hours ago (limit: 24 hours)
+2026-10-08 23:41:05.226271,naukri,Senior Java Developer with Kafka,Cognizant,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-08 23:41:21.400151,naukri,Java Developer,Tekskills india pvt ltd,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\yuvaraj\debug_screenshots\Java_Developer_20261008_234121.png
+2026-10-08 23:41:32.098683,naukri,Java Fullstack Developer with Angular,Capgemini,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:41:37.537806,naukri,Java Angular Developer,Synechron,skipped,job was posted 168 hours ago (limit: 24 hours)
+2026-10-08 23:41:48.266139,naukri,Java Developer,Talentbridge,skipped,"unexpected error: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+waiting for locator(""[contenteditable=\""true\""], [contenteditable=\""\""], input[type=radio], input[type=checkbox], .botMsg"") to be visible
+"
+2026-10-08 23:41:48.310450,naukri,Java Developer,Netweb Software,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.328967,naukri,Java Developer,IBM,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.358438,naukri,Java Developer,Cognizant,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.377236,naukri,Core Java Developer,Persistent,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.401045,naukri,Java Developer,Techmojo Solutions,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.422579,naukri,"Angular, Java, Spring Boot",Quess IT Solutions,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.443882,naukri,Java Full Stack Developer - Java + Angular,Epam Systems,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.469694,naukri,Senior Java Developer,Luxoft,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.495498,naukri,Java Full Stack Developer,Iris Software,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.517366,naukri,Java Fullstack Developer,CIEL HR,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.537418,naukri,Walk-in || Java Full Stack Developer,Buzzworks Business Services,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.561119,naukri,Java Full Stack Developer,Elabs Infotech,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.580917,naukri,Java Full Stack Developer,Acentra Health,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.598653,naukri,Sr. Java Developer,Q1 Technologies,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.624261,naukri,Java Developer,Naukri E Hire Campaign,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.645811,naukri,Software-Java Developer,Creative Hands HR,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.665396,naukri,Java Full Stack Developer,IXceed Solutions,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.675315,naukri,Java Full Stack,Peoplefy Infosolutions,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.701111,naukri,Java Full Stack Developer,Synoris Information System Pvt Ltd,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.706884,naukri,Java Full Stack Developer,Infosys,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.742340,naukri,"Java, Angular, microservices, spring boot Professional",PSRTEK,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.753964,naukri,Java Full Stack Developer,Sonata Software,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.781056,naukri,Java Full Stack Developer,First Meridian Business Services,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-08 23:41:48.800892,naukri,Java Full Stack Developer,Hatchtra Innotech,skipped,"unexpected error: Locator.click: Target page, context or browser has been closed"
+2026-10-09 11:19:45.847168,naukri,Java Developer,Hiring Squad,skipped,Key Skills did not show a green check
+2026-10-09 11:19:50.101116,naukri,Senior Engineer Java,BotFriday AI,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:19:54.410656,naukri,Senior Java Fullstack Developer,Persistent,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:19:58.772400,naukri,Java - BlueJ specialist-Pune (Hybrid),Rrootshell Technologiiss,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:20:04.854005,naukri,Java Full Stack Developer,Tekskills,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:20:20.071650,naukri,Software Engineering Manager - Core & Resilience Engineering,Okta,applied,
+2026-10-09 11:20:29.708179,naukri,Java Back End Developer,Wissen Technology,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:20:45.473617,naukri,Java Aws Developer: F2F Drive ON 17TH Oct,Capgemini,uncertain,couldn't confirm submission -- screenshot saved to C:\Users\Yuvar\OneDrive\Images\Projects\naukri-job-apply-ai\user_data\yuvaraj\debug_screenshots\Java_Aws_Developer__F2F_Drive_ON_17TH_Oct_20261009_112045.png
+2026-10-09 11:20:55.207594,naukri,Java Full Stack Developer(Angular)-K,IT MNC,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 11:20:59.827146,naukri,Java Full Stack Developer,Spanidea,skipped,job was posted 48 hours ago (limit: 24 hours)
+2026-10-09 11:21:04.256723,naukri,Java Full Stack Developer,Tata Consultancy Services,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:21:08.826788,naukri,Specialist - Architecture,LTM,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:21:13.265482,naukri,Sr.Java Fullstack Developer (Angular),Cognizant,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:21:17.640129,naukri,"Application Developer,Software Engineer,Software Developer",Burgeon IT Services,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:21:22.093179,naukri,Soft Develpment Engineer III,Expedia,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:21:26.391797,naukri,Digital Solution Designer RWB Platform_Sparity,Sparity,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:21:30.809895,naukri,Lead Full Stack Engineer - Data Structures and Algorithms,Orcapod Consulting Services,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:21:35.056137,naukri,Looking For Java/ Java Full Stack Developer :: Altimetrik,Altimetrik,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:21:39.305368,naukri,Hiring For Senior Software Engineer with Flatirons solutions,Flatirons Solutions,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 11:21:43.745254,naukri,Sr.Java Fullstack Developer / Lead _ Mumbai @ Fulltime role_F2F must,Techouts,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:21:48.312285,naukri,Java Full Stack Developer,Cloudxtreme,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 11:21:53.208632,naukri,Java Full Stack Developer,Epam Systems,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 11:21:57.804529,naukri,Sr Soft Engineer,Mastercard,skipped,external apply URL not exposed
+2026-10-09 11:22:02.223333,naukri,Senior Full Stack Developer (Java + Angular),Fx31 Labs,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 11:22:06.571192,naukri,Immediately Hiring For Java FullStack Developer- Pune,Ness Digital Engineering,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:22:10.945579,naukri,Senior Platform Engineer,Tech SMCSquared GCC,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 11:22:15.281427,naukri,Sr Software Specialist,PTC,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-09 11:22:19.938926,naukri,Custom Software Engineering Lead,Accenture,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-09 11:22:24.209066,naukri,Lead Software Engineer,Conqueri Technologies,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:22:28.583174,naukri,AEM Fullstack Developer - Bangalore,eClerx,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-09 11:22:33.222522,naukri,Senior Java Full Stack Developer with React,Luxoft,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 11:22:37.480364,naukri,Java Quarkus Developer,MANEVA CONSULTING PRIVATE LIMITED,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 11:22:47.270975,naukri,Java Developer,Synechron,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:22:53.152704,naukri,"SDE 2 - Java, Spring boot, Microservices, AWS, Containers, Devops, API",TENARAI TECHNOLOGIES PRIVATE LIMITED,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:22:58.875066,naukri,Senior Java Software Engineer,Virtusa,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 11:23:04.778546,naukri,"Java, Springboot, Microservices, React, SQL (AWS/Cloud Nice To have)",Virtusa,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:23:10.699185,naukri,Senior Java Developer,Codewalnut,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:23:27.062362,naukri,Java Developer,Anlage Infotech,applied,
+2026-10-09 11:23:48.882864,naukri,Java Developer (Capital Market),Jobility,applied,
+2026-10-09 11:24:00.710878,naukri,Full Stack Java Reactjs Bangalore Hyderabad Chennai ImmediateJoiners,Innova Solutions,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-09 11:24:06.360974,naukri,Technical Lead - Java Backend,Rakuten,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-09 11:24:19.966640,naukri,Java Full Stack Developer (Java + Angular),Capgemini,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 11:24:25.910124,naukri,Walk-in || Java Developer - AI,Bounteous,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 11:24:31.871418,naukri,Backend Software Engineer,Insight Global,skipped,"green-tick mismatch: Early Applicant, Work Experience, Key Skills"
+2026-10-09 11:24:37.882821,naukri,Backend Software Developer,Zion Cloud Solutions,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:24:49.388742,naukri,Loan IQ,Tata Consultancy Services,skipped,"green-tick mismatch: Work Experience, Key Skills"
+2026-10-09 11:25:07.891875,naukri,Java Back End Developer_ 2 To 5 years,Kiya.ai,applied,
+2026-10-09 11:25:29.409842,naukri,Java Developer,Evoke HR solution,applied,
+2026-10-09 11:25:40.680620,naukri,Java Full Stack Developer,Multinational Company,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:25:47.224856,naukri,Java Developer/java full stack developer,Cloudxtreme,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:25:53.147171,naukri,Java Full Stack Developer,Quess Corp,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:25:59.475081,naukri,Java Developer,Tekskills,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-09 11:26:16.295068,naukri,Java Full Stack Developer (Angular + GitHub Copilot),CGI,applied,
+2026-10-09 11:26:27.768978,naukri,Java Full Stack Developer,HCLTech,skipped,"green-tick mismatch: Location, Work Experience, Key Skills"
+2026-10-09 11:26:33.709546,naukri,Sr Java Developer,SAS Research and Development (SAS R&D),skipped,green-tick mismatch: Work Experience
+2026-10-09 11:26:39.709023,naukri,"Senior Software Engineer - Java/Python, Cloud",Optum,skipped,"green-tick mismatch: Early Applicant, Work Experience"
+2026-10-09 11:26:45.730278,naukri,Java Developer,Tekskills,skipped,"green-tick mismatch: Location, Work Experience"
+2026-10-09 11:27:02.371222,naukri,Java Back End Developer,Tech Mahindra,applied,
+2026-10-09 11:27:13.742978,naukri,Senior Appian Developer,Iq-eq,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:27:19.890259,naukri,Java MSB + Angular,Cloudxtreme,skipped,green-tick mismatch: Work Experience
+2026-10-09 11:27:25.875003,naukri,Walk-in || Java Full Stack Developer,Neurealm,skipped,no apply button found
